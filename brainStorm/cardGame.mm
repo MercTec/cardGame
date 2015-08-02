@@ -5,8 +5,9 @@
 <node CREATED="1438374092111" HGAP="16" ID="ID_385514608" MODIFIED="1438484629185" POSITION="right" TEXT="Theme" VSHIFT="55">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-3"/>
-<node CREATED="1438374259339" ID="ID_1990198175" MODIFIED="1438377869509" TEXT="NO magic of any kind">
+<node CREATED="1438374259339" ID="ID_1990198175" MODIFIED="1438526237477" TEXT="NO magic of any kind">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 </node>
 <node CREATED="1438374278534" ID="ID_56555430" MODIFIED="1438377869508" TEXT="realistic">
 <font NAME="SansSerif" SIZE="16"/>
@@ -17,14 +18,17 @@
 <node CREATED="1438374295086" ID="ID_1814941117" MODIFIED="1438377869507" TEXT="historical">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438374312113" ID="ID_1481688238" MODIFIED="1438377869507" TEXT="martial">
+<node CREATED="1438374312113" ID="ID_1481688238" MODIFIED="1438526244278" TEXT="martial">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1438374326629" ID="ID_567169664" MODIFIED="1438377869507" TEXT="all about strategy">
+<node CREATED="1438374326629" ID="ID_567169664" MODIFIED="1438526246774" TEXT="all about strategy">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1438374845487" ID="ID_1725724253" MODIFIED="1438377869506" TEXT="all about skill">
+<node CREATED="1438374845487" ID="ID_1725724253" MODIFIED="1438526249036" TEXT="all about skill">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 </node>
 <node CREATED="1438374849394" ID="ID_1932262282" MODIFIED="1438483963671" TEXT="needs an elegant solution to the gear problem in WoW  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -35,54 +39,133 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438375198574" ID="ID_1718346426" MODIFIED="1438377869505" TEXT="10 factions">
+<node CREATED="1438375198574" ID="ID_1718346426" MODIFIED="1438535851077" TEXT="10 factions">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1438375766651" ID="ID_28782210" MODIFIED="1438483959263" TEXT="Every faction has unique fighting styles and capabilities   ">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438375793085" ID="ID_79151343" MODIFIED="1438377869504" TEXT="">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438375299804" ID="ID_1252258605" MODIFIED="1438377869503" TEXT="2 White People">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438467555822" ID="ID_175815003" MODIFIED="1438467653502" TEXT="Earda">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527547251" ID="ID_1623134253" MODIFIED="1438527583518" TEXT="Germanic - light brown to dark brown   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438467655286" ID="ID_1064840437" MODIFIED="1438467659943" TEXT="Waird">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527497780" ID="ID_134631107" MODIFIED="1438527539076" TEXT="Viking type people - blonde and redhead   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438375313431" ID="ID_1393424380" MODIFIED="1438377869503" TEXT="2 Yellow People">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438467668148" ID="ID_1635761397" MODIFIED="1438483711636" TEXT="Zhi Kai">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527617781" ID="ID_1082512945" MODIFIED="1438527695026" TEXT="Korean/Chinese ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438467682849" ID="ID_1514045953" MODIFIED="1438484293209" TEXT="Dan Feng">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527701260" ID="ID_1833661276" MODIFIED="1438527716763" TEXT="Japanese/Tai">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438375322690" ID="ID_642735589" MODIFIED="1438377869503" TEXT="2 Red People">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438467732826" ID="ID_1217029737" MODIFIED="1438474502923" TEXT="Banawa">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527768947" ID="ID_137094052" MODIFIED="1438527824998" TEXT="Taller and more strict  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438467859176" ID="ID_984375887" MODIFIED="1438474879909" TEXT="Paleka">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527827509" ID="ID_630921665" MODIFIED="1438527850744" TEXT="Shorter and more free  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438375341856" ID="ID_1686962025" MODIFIED="1438377869502" TEXT="2 Brown People">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438467893561" ID="ID_1872094965" MODIFIED="1438468016356" TEXT="Ak&apos;tud">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527874897" ID="ID_1259812484" MODIFIED="1438527892566" TEXT="Arabic/Jewish">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438467899271" ID="ID_210324377" MODIFIED="1438468014216" TEXT="&apos;Ndari">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438527896227" ID="ID_859089329" MODIFIED="1438528149367" TEXT="Indian/Thai">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438375349025" ID="ID_1624921934" MODIFIED="1438377869502" TEXT="2 Black People">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438467921791" ID="ID_662541983" MODIFIED="1438467972550" TEXT="Zemani">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438528155927" ID="ID_906739261" MODIFIED="1438528737992" TEXT="A very fast people">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438467973549" ID="ID_730492254" MODIFIED="1438468143111" TEXT="Gambishi">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438528741549" ID="ID_323964044" MODIFIED="1438528748950" TEXT="A very strong people">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1438527380975" HGAP="26" ID="ID_603109559" MODIFIED="1438530903802" TEXT="5 Fundamental Strategies" VSHIFT="27">
+<font NAME="SansSerif" SIZE="15"/>
+<node CREATED="1438527402070" ID="ID_519654724" MODIFIED="1438527416015" TEXT="2 Nuances for Each Strategy">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438529019547" ID="ID_89929536" MODIFIED="1438529041379" TEXT="Better with Castle/Fort">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438530415395" ID="ID_983430025" MODIFIED="1438530785379" TEXT="Builds fort very fast.">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438530418013" ID="ID_787869956" MODIFIED="1438530816872" TEXT="Recuperates combatants very well.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438529020894" ID="ID_80797877" MODIFIED="1438529079486" TEXT="Weapon Proficiency">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438530421580" ID="ID_1311757194" MODIFIED="1438530735971" TEXT="Has many skill bonuses and performance effects.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438530422655" ID="ID_1276740622" MODIFIED="1438530761411" TEXT="Has many weapons at disposal.">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438529021811" ID="ID_400652679" MODIFIED="1438529102459" TEXT="Better with Siege/Domain">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438530424494" ID="ID_1856396083" MODIFIED="1438530540422" TEXT="Builds resources very fast.">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438530425121" ID="ID_244535909" MODIFIED="1438530710293" TEXT="Very agile in Terrain">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438529022631" ID="ID_203576779" MODIFIED="1438529245956" TEXT="Command Proficiency">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438530426552" ID="ID_1552248630" MODIFIED="1438530502452" TEXT="Proficiency with Commander Morale.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438530427163" ID="ID_31738681" MODIFIED="1438530515336" TEXT="Proficiency with Combatant Morale.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438529023570" ID="ID_761449461" MODIFIED="1438529268887" TEXT="Hit Fast and Hard">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438530428634" ID="ID_265842161" MODIFIED="1438530444989" TEXT="One is fast. ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438530429237" ID="ID_1467352243" MODIFIED="1438530468307" TEXT="The other is strong.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -103,13 +186,13 @@
 </node>
 <node CREATED="1438378126596" ID="ID_1455942867" MODIFIED="1438378180112" TEXT="Mental Picture">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438378181242" ID="ID_1186659293" MODIFIED="1438378209078" TEXT="Lush Green new world">
+<node CREATED="1438378181242" ID="ID_1186659293" MODIFIED="1438525765171" TEXT="Lush Green new world  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438378209583" ID="ID_535945452" MODIFIED="1438378222975" TEXT="great stone castles and fortresses">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438378224630" ID="ID_1476863326" MODIFIED="1438378724536" TEXT="small huts and villages">
+<node CREATED="1438378224630" ID="ID_1476863326" MODIFIED="1438525769828" TEXT="small huts and villages  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -125,10 +208,20 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
+<node CREATED="1438525938809" ID="ID_1305410200" MODIFIED="1438525963924" TEXT="Important aspect!">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438525964524" ID="ID_533587003" MODIFIED="1438526089643" TEXT="Every aspect of the game should be reproduceable by players in real life   ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438526061586" ID="ID_1535815673" MODIFIED="1438526094237" TEXT="just in case we ever make the real card game as well   ">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438374043608" HGAP="34" ID="ID_1843476825" MODIFIED="1438391512754" POSITION="right" TEXT="Casual Play / Quick Match" VSHIFT="-3">
+</node>
+</node>
+</node>
+<node CREATED="1438374043608" HGAP="38" ID="ID_1843476825" MODIFIED="1438526212064" POSITION="right" TEXT="Casual Play / Quick Match  " VSHIFT="36">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-4"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1438374584787" ID="ID_595425354" MODIFIED="1438377869499" TEXT="Deck Size: 40 cards">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438382362774" ID="ID_32864392" MODIFIED="1438382371431" TEXT="if a game is a tie">
@@ -142,9 +235,10 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374044724" ID="ID_1451331780" MODIFIED="1438391516055" POSITION="right" TEXT="Ranked Play / Tournament Match">
+<node CREATED="1438374044724" ID="ID_1451331780" MODIFIED="1438526215184" POSITION="right" TEXT="Ranked Play / Tournament Match  ">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-5"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1438374624103" ID="ID_1289998393" MODIFIED="1438377869498" TEXT="Deck Size: 70 cards">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438378375257" ID="ID_1256635354" MODIFIED="1438379653548" TEXT="If a game is a tie">
@@ -168,9 +262,10 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374777339" HGAP="24" ID="ID_1313363426" MODIFIED="1438484635161" POSITION="left" TEXT="Slogan" VSHIFT="-97">
+<node CREATED="1438374777339" HGAP="24" ID="ID_1313363426" MODIFIED="1438526287662" POSITION="left" TEXT="Slogan" VSHIFT="-97">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-2"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1438374808861" ID="ID_1909109988" MODIFIED="1438377869496" TEXT="Where Strategy Rules">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -180,23 +275,32 @@
 <icon BUILTIN="full-6"/>
 <node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438483979720" TEXT="Object of the Game/How to Win  ">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438375267379" ID="ID_469122682" MODIFIED="1438377869494" TEXT="Structure Question">
+<node CREATED="1438375267379" ID="ID_469122682" MODIFIED="1438529797120" TEXT="Defeat Your Opponent  ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438376343840" ID="ID_155205356" MODIFIED="1438532858311" TEXT="When your oppoenent is gone or morale drops to 0, you win.  ">
+<font NAME="SansSerif" SIZE="20"/>
 <node CREATED="1438375761169" ID="ID_331250664" MODIFIED="1438377869494" TEXT="Commander  HP goes to 0">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438532155278" ID="ID_642129092" MODIFIED="1438532302384" TEXT="Morale drops by so much with respect to Commander&apos;s prestige.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438375978758" ID="ID_539845138" MODIFIED="1438377869493" TEXT="All Combatants Die">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438532317007" ID="ID_1432388418" MODIFIED="1438534943059" TEXT="Morale drops to Commander&apos;s prestige if no combatant is played and lives through the  following turn. If morale was already lower then nothing happens   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438375996144" ID="ID_1282356115" MODIFIED="1438377869493" TEXT="Castle/Home is destroyed">
 <font NAME="SansSerif" SIZE="16"/>
-</node>
-<node CREATED="1438376343840" ID="ID_155205356" MODIFIED="1438377869492" TEXT="">
+<node CREATED="1438531216545" ID="ID_1898321938" MODIFIED="1438531292405" TEXT="Morale is dropped by half of the starting morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438376059817" ID="ID_354104867" MODIFIED="1438377869491" STYLE="fork" TEXT="">
+</node>
+</node>
+<node CREATED="1438376059817" ID="ID_354104867" MODIFIED="1438532913197" STYLE="fork" TEXT="An opponent will lose when neither the Commander nor the combatants are present for the battle, either by death or flight, or the entire army surrenders due to there being no morale.   ">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
+<font NAME="SansSerif" SIZE="20"/>
 </node>
 </node>
 </node>
@@ -209,6 +313,9 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438379845331" ID="ID_1900300996" MODIFIED="1438483973936" TEXT="Should both players get to choose?  ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438530304712" ID="ID_221039608" MODIFIED="1438530322550" TEXT="Current thoughts are that both players should indeed get to choose.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438379875656" ID="ID_250821463" MODIFIED="1438379899636" TEXT="Should the terrains always be the same? Or always different?">
 <font NAME="SansSerif" SIZE="16"/>
@@ -269,7 +376,7 @@
 <node CREATED="1438380338874" ID="ID_1851349555" MODIFIED="1438483995327" TEXT="Resources that you build are always added at the beginning of your next turn   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438380626148" ID="ID_1575885394" MODIFIED="1438380666113" TEXT="Should there be just food based resource or weapon/defense based resource?">
+<node CREATED="1438380626148" ID="ID_1575885394" MODIFIED="1438534818601" TEXT="Should there be just food based resource or weapon/defense based resource?  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438380674801" ID="ID_1286120601" MODIFIED="1438484002598" TEXT="for now just one blanket resource called...Resource   ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -281,6 +388,24 @@
 <node CREATED="1438381502261" ID="ID_87230587" MODIFIED="1438382991672" TEXT="If a player draws cards so that their hand is more than 10 all excess drawn cards are destroyed">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+</node>
+<node CREATED="1438529301680" HGAP="19" ID="ID_356138530" MODIFIED="1438529747226" TEXT="Morale" VSHIFT="12">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438529314657" ID="ID_1698579317" MODIFIED="1438529391890" TEXT="Combatants will likely flee the battle if the commander dies   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438529393809" ID="ID_923078812" MODIFIED="1438529411471" TEXT="Commanders will likely flee the battle if the combatants die   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438529430270" ID="ID_99454325" MODIFIED="1438529474078" TEXT="If Castle/Home is destroyed then the combatants and the commander will not perform as well   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438526139670" ID="ID_1685985205" MODIFIED="1438529727203" TEXT="Attributes of Card Design" VSHIFT="25">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438526151612" ID="ID_1305718866" MODIFIED="1438529719875" TEXT="rectangular....">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
