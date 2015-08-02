@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1438373898661" ID="ID_786192036" MODIFIED="1438380598382" TEXT="Card Game">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438374092111" HGAP="14" ID="ID_385514608" MODIFIED="1438391502822" POSITION="right" TEXT="Theme" VSHIFT="-25">
+<node CREATED="1438374092111" HGAP="16" ID="ID_385514608" MODIFIED="1438484629185" POSITION="right" TEXT="Theme" VSHIFT="55">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-3"/>
 <node CREATED="1438374259339" ID="ID_1990198175" MODIFIED="1438377869509" TEXT="NO magic of any kind">
@@ -26,7 +26,7 @@
 <node CREATED="1438374845487" ID="ID_1725724253" MODIFIED="1438377869506" TEXT="all about skill">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438374849394" ID="ID_1932262282" MODIFIED="1438377869506" TEXT="needs an elegant solution to the gear problem in WoW">
+<node CREATED="1438374849394" ID="ID_1932262282" MODIFIED="1438483963671" TEXT="needs an elegant solution to the gear problem in WoW  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438376526754" ID="ID_1401109213" MODIFIED="1438377869505" TEXT="Does the game have to be complex?">
 <font NAME="SansSerif" SIZE="16"/>
@@ -37,24 +37,54 @@
 </node>
 <node CREATED="1438375198574" ID="ID_1718346426" MODIFIED="1438377869505" TEXT="10 factions">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438375766651" ID="ID_28782210" MODIFIED="1438377869504" TEXT="Every faction has unique fighting styles and capabilities">
+<node CREATED="1438375766651" ID="ID_28782210" MODIFIED="1438483959263" TEXT="Every faction has unique fighting styles and capabilities   ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438375793085" ID="ID_79151343" MODIFIED="1438377869504" TEXT="">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438375299804" ID="ID_1252258605" MODIFIED="1438377869503" TEXT="2 White People">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438467555822" ID="ID_175815003" MODIFIED="1438467653502" TEXT="Earda">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438467655286" ID="ID_1064840437" MODIFIED="1438467659943" TEXT="Waird">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438375313431" ID="ID_1393424380" MODIFIED="1438377869503" TEXT="2 Yellow People">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438467668148" ID="ID_1635761397" MODIFIED="1438483711636" TEXT="Zhi Kai">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438467682849" ID="ID_1514045953" MODIFIED="1438484293209" TEXT="Dan Feng">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438375322690" ID="ID_642735589" MODIFIED="1438377869503" TEXT="2 Red People">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438467732826" ID="ID_1217029737" MODIFIED="1438474502923" TEXT="Banawa">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438467859176" ID="ID_984375887" MODIFIED="1438474879909" TEXT="Paleka">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438375341856" ID="ID_1686962025" MODIFIED="1438377869502" TEXT="2 Brown People">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438467893561" ID="ID_1872094965" MODIFIED="1438468016356" TEXT="Ak&apos;tud">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438467899271" ID="ID_210324377" MODIFIED="1438468014216" TEXT="&apos;Ndari">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438375349025" ID="ID_1624921934" MODIFIED="1438377869502" TEXT="2 Black People">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438467921791" ID="ID_662541983" MODIFIED="1438467972550" TEXT="Zemani">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438467973549" ID="ID_730492254" MODIFIED="1438468143111" TEXT="Gambishi">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 </node>
@@ -83,9 +113,9 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438382712904" ID="ID_1172298028" MODIFIED="1438382759792" TEXT="maybe a feeling of chess regality in terms of both strategy, units and game play">
+<node CREATED="1438382712904" ID="ID_1172298028" MODIFIED="1438483945706" TEXT="maybe a feeling of chess regality in terms of both strategy, units and game play     ">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438382779506" ID="ID_1541264068" MODIFIED="1438382815401" TEXT="I believe it&apos;s called a smacking of chess as the Brits say">
+<node CREATED="1438382779506" ID="ID_1541264068" MODIFIED="1438483953489" TEXT="I believe it&apos;s called a smacking of chess as the Brits say   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -131,24 +161,24 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374675275" HGAP="-11" ID="ID_791768982" MODIFIED="1438391495804" POSITION="left" TEXT="Name" VSHIFT="-18">
+<node CREATED="1438374675275" HGAP="4" ID="ID_791768982" MODIFIED="1438484611491" POSITION="left" TEXT="Name" VSHIFT="-19">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
 <node CREATED="1438375161717" ID="ID_1544914877" MODIFIED="1438377869497" TEXT="???">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374777339" HGAP="26" ID="ID_1313363426" MODIFIED="1438391498418" POSITION="left" TEXT="Slogan" VSHIFT="5">
+<node CREATED="1438374777339" HGAP="24" ID="ID_1313363426" MODIFIED="1438484635161" POSITION="left" TEXT="Slogan" VSHIFT="-97">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-2"/>
 <node CREATED="1438374808861" ID="ID_1909109988" MODIFIED="1438377869496" TEXT="Where Strategy Rules">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374802785" HGAP="28" ID="ID_451117220" MODIFIED="1438391521064" POSITION="left" TEXT="Rules" VSHIFT="-26">
+<node CREATED="1438374802785" HGAP="27" ID="ID_451117220" MODIFIED="1438484641541" POSITION="left" TEXT="Rules" VSHIFT="-31">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-6"/>
-<node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438377869495" TEXT="Object of the Game/How to Win">
+<node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438483979720" TEXT="Object of the Game/How to Win  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438375267379" ID="ID_469122682" MODIFIED="1438377869494" TEXT="Structure Question">
 <font NAME="SansSerif" SIZE="16"/>
@@ -177,7 +207,7 @@
 </node>
 <node CREATED="1438378918674" ID="ID_373798538" MODIFIED="1438378942128" TEXT="Second Player chooses Terrain">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438379845331" ID="ID_1900300996" MODIFIED="1438379902288" TEXT="Should both players get to choose?">
+<node CREATED="1438379845331" ID="ID_1900300996" MODIFIED="1438483973936" TEXT="Should both players get to choose?  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438379875656" ID="ID_250821463" MODIFIED="1438379899636" TEXT="Should the terrains always be the same? Or always different?">
@@ -236,12 +266,12 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438380338874" ID="ID_1851349555" MODIFIED="1438380359047" TEXT="Resources that you build are always added at the beginning of your next turn">
+<node CREATED="1438380338874" ID="ID_1851349555" MODIFIED="1438483995327" TEXT="Resources that you build are always added at the beginning of your next turn   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438380626148" ID="ID_1575885394" MODIFIED="1438380666113" TEXT="Should there be just food based resource or weapon/defense based resource?">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438380674801" ID="ID_1286120601" MODIFIED="1438380721210" TEXT="for now just one blanket resource called...Resource">
+<node CREATED="1438380674801" ID="ID_1286120601" MODIFIED="1438484002598" TEXT="for now just one blanket resource called...Resource   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -257,7 +287,7 @@
 <node CREATED="1438399685892" ID="ID_65441327" MODIFIED="1438399710138" POSITION="right" TEXT="Card Rarities">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-7"/>
-<node CREATED="1438399808715" ID="ID_432901842" MODIFIED="1438399834843" TEXT="I believe that we shouldn&apos;t have them at all.">
+<node CREATED="1438399808715" ID="ID_432901842" MODIFIED="1438483933690" TEXT="we won&apos;t need to use them all but are there more?   ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438399715778" ID="ID_946383248" MODIFIED="1438399723175" TEXT="Common">
 <font NAME="SansSerif" SIZE="16"/>
@@ -275,13 +305,6 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438399836265" ID="ID_1090728449" MODIFIED="1438399860674" TEXT="Cards should just be rare without a designation">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node CREATED="1438399877625" ID="ID_1337680888" MODIFIED="1438399888655" TEXT="that would be absolutely awesome">
-<font NAME="SansSerif" SIZE="15"/>
-</node>
-<node CREATED="1438399889597" ID="ID_219138950" MODIFIED="1438399889597" TEXT=""/>
 </node>
 </node>
 </map>
