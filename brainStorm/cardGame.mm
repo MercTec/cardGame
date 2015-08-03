@@ -147,8 +147,9 @@
 <node CREATED="1438530424494" ID="ID_1856396083" MODIFIED="1438530540422" TEXT="Builds resources very fast.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438530425121" ID="ID_244535909" MODIFIED="1438530710293" TEXT="Very agile in Terrain">
+<node CREATED="1438530425121" ID="ID_244535909" MODIFIED="1438547673951" TEXT="Very agile in Terrain, hunts well  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1438529022631" ID="ID_203576779" MODIFIED="1438529245956" TEXT="Command Proficiency">
@@ -262,7 +263,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374777339" HGAP="24" ID="ID_1313363426" MODIFIED="1438526287662" POSITION="left" TEXT="Slogan" VSHIFT="-97">
+<node CREATED="1438374777339" ID="ID_1313363426" MODIFIED="1438561284486" POSITION="left" TEXT="Slogan" VSHIFT="1">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-2"/>
 <icon BUILTIN="button_ok"/>
@@ -273,11 +274,11 @@
 <node CREATED="1438374802785" HGAP="27" ID="ID_451117220" MODIFIED="1438484641541" POSITION="left" TEXT="Rules" VSHIFT="-31">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-6"/>
-<node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438483979720" TEXT="Object of the Game/How to Win  ">
+<node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438561275631" TEXT="Object of the Game/How to Win  " VSHIFT="-30">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438375267379" ID="ID_469122682" MODIFIED="1438529797120" TEXT="Defeat Your Opponent  ">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438376343840" ID="ID_155205356" MODIFIED="1438532858311" TEXT="When your oppoenent is gone or morale drops to 0, you win.  ">
+<node CREATED="1438376343840" ID="ID_155205356" MODIFIED="1438564855734" TEXT="When your oppoenent is gone you win.  ">
 <font NAME="SansSerif" SIZE="20"/>
 <node CREATED="1438375761169" ID="ID_331250664" MODIFIED="1438377869494" TEXT="Commander  HP goes to 0">
 <font NAME="SansSerif" SIZE="16"/>
@@ -287,7 +288,7 @@
 </node>
 <node CREATED="1438375978758" ID="ID_539845138" MODIFIED="1438377869493" TEXT="All Combatants Die">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438532317007" ID="ID_1432388418" MODIFIED="1438534943059" TEXT="Morale drops to Commander&apos;s prestige if no combatant is played and lives through the  following turn. If morale was already lower then nothing happens   ">
+<node CREATED="1438532317007" ID="ID_1432388418" MODIFIED="1438566860356" TEXT="The commander becomes available for attack. If the commander dies, he dies indeed.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -298,9 +299,18 @@
 </node>
 </node>
 </node>
-<node CREATED="1438376059817" ID="ID_354104867" MODIFIED="1438532913197" STYLE="fork" TEXT="An opponent will lose when neither the Commander nor the combatants are present for the battle, either by death or flight, or the entire army surrenders due to there being no morale.   ">
+<node CREATED="1438376059817" ID="ID_354104867" MODIFIED="1438564864839" STYLE="fork" TEXT="An opponent will lose when neither the Commander nor the combatants are present for the battle, either by death or flight.   ">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1438561134071" ID="ID_237702073" MODIFIED="1438564916545" TEXT=" If a commander dies, they die indeed.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438561241377" ID="ID_560406881" MODIFIED="1438566456959" TEXT="A commander may flee the battle at any time during your turn.    ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438566491041" ID="ID_815427747" MODIFIED="1438566566966" TEXT="All combatants on the battlefield flee immediately when morale drops to 0.  ">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
@@ -313,7 +323,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438379845331" ID="ID_1900300996" MODIFIED="1438483973936" TEXT="Should both players get to choose?  ">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438530304712" ID="ID_221039608" MODIFIED="1438530322550" TEXT="Current thoughts are that both players should indeed get to choose.   ">
+<node CREATED="1438530304712" ID="ID_221039608" MODIFIED="1438566970772" TEXT="Current thoughts are that I&apos;m not sure which one should be.    ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -358,7 +368,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1438379998562" ID="ID_349871325" MODIFIED="1438380026365" TEXT="Resources/Food (NOT mana)">
+<node CREATED="1438379998562" ID="ID_349871325" MODIFIED="1438548236769" TEXT="Resources (NOT mana)">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438380031901" ID="ID_1455980044" MODIFIED="1438380293110" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -401,11 +411,209 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
+<node CREATED="1438556414596" ID="ID_91347889" MODIFIED="1438556419325" TEXT="Prestige">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438556422637" ID="ID_441607112" MODIFIED="1438556468286" TEXT="The value that represents the Commander&apos;s greatness in the eyes of his Combatants   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438556505886" ID="ID_1704652129" MODIFIED="1438556554261" TEXT="A commander can expect more from his soldiers and it is easier to gain morale.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438561595306" ID="ID_1934153968" MODIFIED="1438561602027" TEXT="Recuperation">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438561604225" ID="ID_1771502473" MODIFIED="1438561638388" TEXT="Players may recuperate if the facility was built   ">
+<font NAME="SansSerif" SIZE="17"/>
+</node>
+<node CREATED="1438561645556" ID="ID_1049680636" MODIFIED="1438561774104" TEXT="Armor can be repaired, effects from poisons and bleed can be removed   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438567203981" HGAP="13" ID="ID_239423264" MODIFIED="1438569507940" TEXT="Trainable Base Cards" VSHIFT="13">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438567225312" ID="ID_1061109450" MODIFIED="1438567265704" TEXT="The base set is where your commanders come from. You may set any card from your collection of the base set as a commander.">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438567267111" ID="ID_1954691642" MODIFIED="1438567513076" TEXT="All these cards grow in stats as you play the game!  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
 </node>
 <node CREATED="1438526139670" ID="ID_1685985205" MODIFIED="1438529727203" TEXT="Attributes of Card Design" VSHIFT="25">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438526151612" ID="ID_1305718866" MODIFIED="1438529719875" TEXT="rectangular....">
+<node CREATED="1438526151612" ID="ID_1305718866" MODIFIED="1438548356573" TEXT="Resource Cost">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438569933370" ID="ID_892452689" MODIFIED="1438570377689" TEXT="the amount of resource necessary to sustain unit at the end of every turn     ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438548356958" ID="ID_1011190438" MODIFIED="1438548366954" TEXT="Armor">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438569954172" ID="ID_127446628" MODIFIED="1438569959855" TEXT="the life of the unit  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438548367753" HGAP="19" ID="ID_1966447278" MODIFIED="1438559027022" TEXT="Strength" VSHIFT="-1">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438569963671" ID="ID_184538706" MODIFIED="1438569973366" TEXT="the attack power of the unit  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438559013362" HGAP="24" ID="ID_1544035068" MODIFIED="1438563180034" TEXT="Speed" VSHIFT="3">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438569980214" ID="ID_472238746" MODIFIED="1438570198605" TEXT="In every combat interaction between units the higher speed attacks first. Increases dodge.    ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438563159549" ID="ID_1628862486" MODIFIED="1438563163794" TEXT="Skill">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438570017657" ID="ID_1343371880" MODIFIED="1438570159544" TEXT="in every combat interaction whichever unit with a remainder of skill has that much chance to deal a critical blow. Increases Hit percentage and dodge.">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438563164612" ID="ID_1308813784" MODIFIED="1438563182113" TEXT="Hit" VSHIFT="-9">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438570234559" ID="ID_1853794152" MODIFIED="1438570247773" TEXT="percentage chance for a solid hit!   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438570203246" ID="ID_653758424" MODIFIED="1438570209099" TEXT="Dodge">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438570212482" ID="ID_751685996" MODIFIED="1438570228495" TEXT="decreases opponents hit percentage directly.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438563646943" ID="ID_1052000470" MODIFIED="1438563656563" TEXT="Work">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438563663392" ID="ID_1430477671" MODIFIED="1438563679673" TEXT="represents the amount a combatant can build per turn.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438548389068" HGAP="23" ID="ID_409333576" MODIFIED="1438559179623" TEXT="Weapon Type" VSHIFT="23">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559278715" ID="ID_1445471995" MODIFIED="1438560165408" TEXT="We will use the Weapon Triangle and more. &#xa;Every weapon will have a specific ability.  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438550277964" ID="ID_185510778" MODIFIED="1438550287978" TEXT="Sword">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559377501" ID="ID_918285367" MODIFIED="1438562123476" TEXT="Axes have reduced hit when equipped.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438550289393" ID="ID_1276498055" MODIFIED="1438550294229" TEXT="Axe">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559389324" ID="ID_394938705" MODIFIED="1438562140726" TEXT="Chance to break lance when equipped.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438550295020" ID="ID_1274682301" MODIFIED="1438550298459" TEXT="Lance">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559402777" ID="ID_1879225218" MODIFIED="1438562163886" TEXT="Chance to dodge/parry swords when equipped.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438560826845" ID="ID_1676947531" MODIFIED="1438560833051" TEXT="Shield">
+<font NAME="SansSerif" SIZE="17"/>
+<node CREATED="1438560834609" ID="ID_1248971853" MODIFIED="1438561563210" TEXT="Adds armor and blocks ranged weapons but reduces speed  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438550301050" ID="ID_88032041" MODIFIED="1438550305781" TEXT="Bow">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559420195" ID="ID_1913516684" MODIFIED="1438559437758" TEXT="Range 2-3">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438550307012" ID="ID_1845062047" MODIFIED="1438550312468" TEXT="Sling">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559444715" ID="ID_1184388914" MODIFIED="1438569904040" TEXT="Range 1-2, high critical hit">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438550384830" ID="ID_278836166" MODIFIED="1438550389400" TEXT="Spear">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559463772" ID="ID_20167109" MODIFIED="1438559471650" TEXT="Range 1-2">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438550452726" ID="ID_1366911666" MODIFIED="1438550458779" TEXT="Hammer">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559476568" ID="ID_1697842226" MODIFIED="1438559528539" TEXT="Deals more damage to foes with high starting Armor.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438550459482" ID="ID_1942060126" MODIFIED="1438550467595" TEXT="Mace">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559531644" ID="ID_728119764" MODIFIED="1438559572154" TEXT="Deals bleed damage to foes with low starting armor.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438555964182" ID="ID_712054007" MODIFIED="1438555967920" TEXT="Flail">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559580824" ID="ID_1819341114" MODIFIED="1438559597791" TEXT="Destroys or damages a shield if equipped.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438555901120" ID="ID_1359147226" MODIFIED="1438555914160" TEXT="Throwing Knife">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559609924" ID="ID_724853549" MODIFIED="1438559614751" TEXT="Range 2">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438555914942" ID="ID_57270522" MODIFIED="1438555921284" TEXT="Throwing Axe">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559617973" ID="ID_195967834" MODIFIED="1438559622799" TEXT="Range 2">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438555922010" ID="ID_1048137059" MODIFIED="1438555926309" TEXT="Shuriken">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559626196" ID="ID_1074592738" MODIFIED="1438559693823" TEXT="Range 2, poisons are applicable  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438559659446" ID="ID_608013049" MODIFIED="1438559663653" TEXT="Darts">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559669126" ID="ID_705704452" MODIFIED="1438559684880" TEXT="Range 1-2, poisons are applicable  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438555935323" ID="ID_972477427" MODIFIED="1438555940336" TEXT="Poisons">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559731458" ID="ID_686148574" MODIFIED="1438559753187" TEXT="Varied effects, applicable to certain weapons or things  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438555941560" ID="ID_153984372" MODIFIED="1438559806087" TEXT="Fire/Gun powder">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438559780962" ID="ID_630756499" MODIFIED="1438559789133" TEXT="fire based weapons and effects  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438555950007" ID="ID_1885947371" MODIFIED="1438560021482" TEXT="Cannons">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438560111748" ID="ID_486481952" MODIFIED="1438560120937" TEXT="Range 4">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438561409593" ID="ID_750849815" MODIFIED="1438561449546" TEXT="any range 4 weapon that attacks another range 4 weapon destroys that weapon and has a 50% chance of killing the one who mans it.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438560774894" ID="ID_627077614" MODIFIED="1438560792919" TEXT="Catapults">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438560783167" ID="ID_943042859" MODIFIED="1438560787572" TEXT="Range 4">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438561887568" ID="ID_938989386" MODIFIED="1438561900977" TEXT="Can recieve fire effects">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438561810306" ID="ID_1653647951" MODIFIED="1438561817248" TEXT="Trebuchets">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438561818022" ID="ID_1347182225" MODIFIED="1438561822064" TEXT="Range 4">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
