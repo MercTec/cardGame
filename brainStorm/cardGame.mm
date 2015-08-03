@@ -126,7 +126,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438529019547" ID="ID_89929536" MODIFIED="1438529041379" TEXT="Better with Castle/Fort">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438530415395" ID="ID_983430025" MODIFIED="1438530785379" TEXT="Builds fort very fast.">
+<node CREATED="1438530415395" ID="ID_983430025" MODIFIED="1438640655183" TEXT="Has high defenses.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438530418013" ID="ID_787869956" MODIFIED="1438530816872" TEXT="Recuperates combatants very well.  ">
@@ -154,8 +154,9 @@
 </node>
 <node CREATED="1438529022631" ID="ID_203576779" MODIFIED="1438529245956" TEXT="Command Proficiency">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438530426552" ID="ID_1552248630" MODIFIED="1438530502452" TEXT="Proficiency with Commander Morale.  ">
+<node CREATED="1438530426552" ID="ID_1552248630" MODIFIED="1438640675544" TEXT="Proficiency with Commander Morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1438530427163" ID="ID_31738681" MODIFIED="1438530515336" TEXT="Proficiency with Combatant Morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -420,18 +421,19 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438561595306" ID="ID_1934153968" MODIFIED="1438561602027" TEXT="Recuperation">
+<node CREATED="1438561595306" ID="ID_1934153968" MODIFIED="1438643687567" TEXT="Recuperation">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
 <node CREATED="1438561604225" ID="ID_1771502473" MODIFIED="1438561638388" TEXT="Players may recuperate if the facility was built   ">
 <font NAME="SansSerif" SIZE="17"/>
 </node>
-<node CREATED="1438561645556" ID="ID_1049680636" MODIFIED="1438561774104" TEXT="Armor can be repaired, effects from poisons and bleed can be removed   ">
+<node CREATED="1438561645556" ID="ID_1049680636" MODIFIED="1438643680343" TEXT="Armor can be repaired, effects from poisons and bleed can be removed   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 <node CREATED="1438567203981" HGAP="13" ID="ID_239423264" MODIFIED="1438569507940" TEXT="Trainable Base Cards" VSHIFT="13">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438567225312" ID="ID_1061109450" MODIFIED="1438567265704" TEXT="The base set is where your commanders come from. You may set any card from your collection of the base set as a commander.">
+<node CREATED="1438567225312" ID="ID_1061109450" MODIFIED="1438644559891" TEXT="The base set is where your commanders come from. You may upgrade any card from your collection of the base set to a commander.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438567267111" ID="ID_1954691642" MODIFIED="1438567513076" TEXT="All these cards grow in stats as you play the game!  ">
@@ -461,25 +463,19 @@
 </node>
 <node CREATED="1438559013362" HGAP="24" ID="ID_1544035068" MODIFIED="1438563180034" TEXT="Speed" VSHIFT="3">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438569980214" ID="ID_472238746" MODIFIED="1438570198605" TEXT="In every combat interaction between units the higher speed attacks first. Increases dodge.    ">
+<node CREATED="1438569980214" ID="ID_472238746" MODIFIED="1438644312499" TEXT="Higher speed means that a combatant can &quot;run away&quot; or reposition themselves further back from their opponent. It also means that their opponent cannot reposition themselves further back on the battlefield. They can however come closer.    ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 <node CREATED="1438563159549" ID="ID_1628862486" MODIFIED="1438563163794" TEXT="Skill">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438570017657" ID="ID_1343371880" MODIFIED="1438570159544" TEXT="in every combat interaction whichever unit with a remainder of skill has that much chance to deal a critical blow. Increases Hit percentage and dodge.">
+<node CREATED="1438570017657" ID="ID_1343371880" MODIFIED="1438644253243" TEXT="in every combat interaction whichever unit with a remainder of skill has that much chance to deal a critical blow. Increases Hit percentage and dodge for long range weaponry. Increases parry for short range combat.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 <node CREATED="1438563164612" ID="ID_1308813784" MODIFIED="1438563182113" TEXT="Hit" VSHIFT="-9">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438570234559" ID="ID_1853794152" MODIFIED="1438570247773" TEXT="percentage chance for a solid hit!   ">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-<node CREATED="1438570203246" ID="ID_653758424" MODIFIED="1438570209099" TEXT="Dodge">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438570212482" ID="ID_751685996" MODIFIED="1438570228495" TEXT="decreases opponents hit percentage directly.   ">
+<node CREATED="1438570234559" ID="ID_1853794152" MODIFIED="1438643650678" TEXT="percentage chance for a solid hit! Only applies to long range weaponry.   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
