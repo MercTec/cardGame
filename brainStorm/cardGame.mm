@@ -267,7 +267,7 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="20"/>
 </node>
-<node CREATED="1438561134071" ID="ID_237702073" MODIFIED="1438564916545" TEXT=" If a commander dies, they die indeed.   ">
+<node CREATED="1438561134071" ID="ID_237702073" MODIFIED="1438655922859" TEXT=" If a commander dies, they die indeed. Anyone who accompanies the commander also dies.   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438561241377" ID="ID_560406881" MODIFIED="1438566456959" TEXT="A commander may flee the battle at any time during your turn.    ">
@@ -295,14 +295,27 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438379223528" ID="ID_223356283" MODIFIED="1438379223528" TEXT=""/>
-<node CREATED="1438379266422" ID="ID_1031211058" MODIFIED="1438379266422" TEXT=""/>
-<node CREATED="1438379267172" ID="ID_1612718036" MODIFIED="1438379267172" TEXT=""/>
-<node CREATED="1438379267662" ID="ID_1218978814" MODIFIED="1438379267662" TEXT=""/>
-<node CREATED="1438379268058" ID="ID_1860295033" MODIFIED="1438379268058" TEXT=""/>
-<node CREATED="1438379268758" ID="ID_1589163681" MODIFIED="1438379268758" TEXT=""/>
-<node CREATED="1438379269138" ID="ID_1428610829" MODIFIED="1438379272531" TEXT="???"/>
-<node CREATED="1438379793453" ID="ID_834632746" MODIFIED="1438379804154" TEXT="Repeat steps 3 - ?">
+<node CREATED="1438379223528" ID="ID_223356283" MODIFIED="1438654871638" TEXT="Draw starting hand size for first turn. Draw a card for subsequent turns.   ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1438379268058" ID="ID_1860295033" MODIFIED="1438655719266" TEXT="Play builders   ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1438655407160" ID="ID_691807199" MODIFIED="1438655721737" TEXT="Play combatants   ">
+<font NAME="SansSerif" SIZE="17"/>
+<icon BUILTIN="full-5"/>
+</node>
+<node CREATED="1438655448534" ID="ID_826213014" MODIFIED="1438655723969" TEXT="Play effect cards. All effect cards tax the Resources at the moment of play. If the effect card is equipment then the unit&apos;s cost is increased by what he&apos;s equipped with on top of the instant cost.      ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-6"/>
+</node>
+<node CREATED="1438379268758" ID="ID_1589163681" MODIFIED="1438655726489" TEXT="At the end of your turn dole out resources to those in the battlefield   ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-7"/>
+</node>
+<node CREATED="1438379793453" ID="ID_834632746" MODIFIED="1438655773612" TEXT="Repeat steps 3 - 7. Steps 4-6 may occur in any order.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -330,6 +343,18 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
+</node>
+<node CREATED="1438652379666" ID="ID_1561299023" MODIFIED="1438655850821" TEXT="there is 1 row of 7 slots and 2 rows of 5 ordered front to back for combatants.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438652462847" ID="ID_1688081592" MODIFIED="1438655889480" TEXT="The commander lies behind them all. If trained, an advisor and shield bearer may accompany the commander.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438652492318" ID="ID_440118076" MODIFIED="1438652616828" TEXT="The builders lie to the upper right of the combatants in a 3x3.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438652549693" ID="ID_1264774861" MODIFIED="1438652592218" TEXT="the deck lies to the right of the builders and the discard pile lies above the deck.  ">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 <node CREATED="1438379998562" ID="ID_349871325" MODIFIED="1438548236769" TEXT="Resources (NOT mana)">
