@@ -150,6 +150,9 @@
 <node CREATED="1438530425121" ID="ID_244535909" MODIFIED="1438547673951" TEXT="Very agile in Terrain, hunts well  ">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="help"/>
+<node CREATED="1438710582824" ID="ID_329318657" MODIFIED="1438710601076" TEXT="so this means they have high movement and use bows?    ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438529022631" ID="ID_203576779" MODIFIED="1438529245956" TEXT="Command Proficiency">
@@ -235,9 +238,9 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374802785" HGAP="27" ID="ID_451117220" MODIFIED="1438484641541" POSITION="left" TEXT="Rules" VSHIFT="-31">
+<node CREATED="1438374802785" HGAP="27" ID="ID_451117220" MODIFIED="1438696058791" POSITION="left" TEXT="Rules" VSHIFT="-31">
 <font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="full-6"/>
+<icon BUILTIN="full-4"/>
 <node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438561275631" TEXT="Object of the Game/How to Win  " VSHIFT="-30">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438375267379" ID="ID_469122682" MODIFIED="1438529797120" TEXT="Defeat Your Opponent  ">
@@ -311,12 +314,25 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-6"/>
 </node>
-<node CREATED="1438379268758" ID="ID_1589163681" MODIFIED="1438655726489" TEXT="At the end of your turn dole out resources to those in the battlefield   ">
+<node CREATED="1438710278037" ID="ID_82926819" MODIFIED="1438710297972" TEXT="Move Units">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-7"/>
-</node>
-<node CREATED="1438379793453" ID="ID_834632746" MODIFIED="1438655773612" TEXT="Repeat steps 3 - 7. Steps 4-6 may occur in any order.">
+<icon BUILTIN="help"/>
+<node CREATED="1438710321635" ID="ID_129187418" MODIFIED="1438710332324" TEXT="this feature may be wrong">
 <font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438710228175" ID="ID_925996065" MODIFIED="1438710303460" TEXT="Attack!">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-8"/>
+</node>
+<node CREATED="1438379268758" ID="ID_1589163681" MODIFIED="1438710312305" TEXT="At the end of your turn dole out resources to those in the battlefield      ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-9"/>
+</node>
+<node CREATED="1438379793453" ID="ID_834632746" MODIFIED="1438710531345" TEXT="Repeat steps 3 - 10. Steps 4-8 may occur in any order.   1  ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-0"/>
 </node>
 </node>
 <node CREATED="1438379502653" ID="ID_1506992418" MODIFIED="1438379519405" TEXT="Attributes of Game Play">
@@ -357,8 +373,9 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438379998562" ID="ID_349871325" MODIFIED="1438548236769" TEXT="Resources (NOT mana)">
+<node CREATED="1438379998562" ID="ID_349871325" MODIFIED="1438710131334" TEXT="Resources (NOT mana)">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1438380031901" ID="ID_1455980044" MODIFIED="1438380293110" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -388,12 +405,11 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438646276796" ID="ID_1473557953" MODIFIED="1438646282869" TEXT="Deck Size">
+<node CREATED="1438646276796" ID="ID_1473557953" MODIFIED="1438696017887" TEXT="Deck Size">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438374043608" HGAP="38" ID="ID_1843476825" MODIFIED="1438526212064" TEXT="Casual Play / Quick Match  " VSHIFT="36">
-<font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="full-4"/>
 <icon BUILTIN="button_ok"/>
+<node CREATED="1438374043608" HGAP="38" ID="ID_1843476825" MODIFIED="1438696032235" TEXT="Casual Play / Quick Match  " VSHIFT="36">
+<font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438374584787" ID="ID_595425354" MODIFIED="1438377869499" TEXT="Deck Size: 40 cards">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438382362774" ID="ID_32864392" MODIFIED="1438382371431" TEXT="if a game is a tie">
@@ -407,10 +423,8 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438374044724" ID="ID_1451331780" MODIFIED="1438526215184" TEXT="Ranked Play / Tournament Match  ">
+<node CREATED="1438374044724" ID="ID_1451331780" MODIFIED="1438696029737" TEXT="Ranked Play / Tournament Match  ">
 <font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="full-5"/>
-<icon BUILTIN="button_ok"/>
 <node CREATED="1438374624103" ID="ID_1289998393" MODIFIED="1438377869498" TEXT="Deck Size: 70 cards">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438378375257" ID="ID_1256635354" MODIFIED="1438379653548" TEXT="If a game is a tie">
@@ -468,6 +482,16 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
+<node CREATED="1438693791240" ID="ID_1900446540" MODIFIED="1438693915270" TEXT="Raids">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1438693797792" ID="ID_442344043" MODIFIED="1438693859916" TEXT="They&apos;re actual raids! When a raid card is played, any or all of your builders may be selected for the raid and sent off to fight your opponent&apos;s builders.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438693862020" ID="ID_471515655" MODIFIED="1438693896580" TEXT="Sometimes costly for both sides. Sometimes backfires. Sometimes brings great loot to the raider.    ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
 </node>
 <node CREATED="1438526139670" ID="ID_1685985205" MODIFIED="1438529727203" TEXT="Attributes of Card Design" VSHIFT="25">
 <font NAME="SansSerif" SIZE="16"/>
@@ -495,8 +519,9 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438563159549" ID="ID_1628862486" MODIFIED="1438563163794" TEXT="Skill">
+<node CREATED="1438563159549" ID="ID_1628862486" MODIFIED="1438692644055" TEXT="Skill">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="yes"/>
 <node CREATED="1438570017657" ID="ID_1343371880" MODIFIED="1438644253243" TEXT="in every combat interaction whichever unit with a remainder of skill has that much chance to deal a critical blow. Increases Hit percentage and dodge for long range weaponry. Increases parry for short range combat.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -504,6 +529,16 @@
 <node CREATED="1438563164612" ID="ID_1308813784" MODIFIED="1438563182113" TEXT="Hit" VSHIFT="-9">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438570234559" ID="ID_1853794152" MODIFIED="1438643650678" TEXT="percentage chance for a solid hit! Only applies to long range weaponry.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438691721537" ID="ID_399537728" MODIFIED="1438691729972" TEXT="Movement">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
+<node CREATED="1438691733089" ID="ID_265603749" MODIFIED="1438691776470" TEXT="the amount a unit can move around on the battlefield in a single turn.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438693003228" ID="ID_992518294" MODIFIED="1438697371388" TEXT="0-8 movement is possible right now  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -519,7 +554,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438550277964" ID="ID_185510778" MODIFIED="1438550287978" TEXT="Sword">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438559377501" ID="ID_918285367" MODIFIED="1438562123476" TEXT="Axes have reduced hit when equipped.  ">
+<node CREATED="1438559377501" ID="ID_918285367" MODIFIED="1438692517442" TEXT="Either has chance to strike a second blow or does increased damage.  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -641,12 +676,16 @@
 </node>
 </node>
 </node>
-<node CREATED="1438399685892" ID="ID_65441327" MODIFIED="1438399710138" POSITION="right" TEXT="Card Rarities">
+<node CREATED="1438399685892" ID="ID_65441327" MODIFIED="1438697262687" POSITION="right" TEXT="Card Rarities" VSHIFT="19">
 <font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="full-7"/>
+<icon BUILTIN="full-5"/>
+<icon BUILTIN="yes"/>
 <node CREATED="1438399808715" ID="ID_432901842" MODIFIED="1438483933690" TEXT="we won&apos;t need to use them all but are there more?   ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438399715778" ID="ID_946383248" MODIFIED="1438399723175" TEXT="Common">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438696130064" ID="ID_520691842" MODIFIED="1438697653004" TEXT="Uncommon">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438399724837" ID="ID_1223065506" MODIFIED="1438399738472" TEXT="Semi-rare">
@@ -658,9 +697,98 @@
 <node CREATED="1438399745433" ID="ID_1982109302" MODIFIED="1438399759452" TEXT="Epic">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+<node CREATED="1438696726265" ID="ID_1046924066" MODIFIED="1438696730479" TEXT="Heroic">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438696863585" ID="ID_1107763554" MODIFIED="1438696881712" TEXT="altruistic, sacrificial and grand">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438697170581" ID="ID_1889475831" MODIFIED="1438697292774" TEXT="movement is increased?  ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
+</node>
+</node>
+</node>
+<node CREATED="1438696288693" ID="ID_1768126950" MODIFIED="1438696292499" TEXT="Noble">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438696787553" ID="ID_1117948601" MODIFIED="1438696795256" TEXT="distinguished by rank or title">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438697022666" ID="ID_1839687005" MODIFIED="1438697276597" TEXT="should increase morale better   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438696317285" ID="ID_623378421" MODIFIED="1438696321392" TEXT="Valiant">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438696734264" ID="ID_1572711664" MODIFIED="1438696772349" TEXT="bold, courageous like a lion">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438697052387" ID="ID_442619674" MODIFIED="1438697273175" TEXT="should be higher strength  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438696322047" ID="ID_1173170111" MODIFIED="1438696325459" TEXT="Gallant">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438696687150" ID="ID_1025525371" MODIFIED="1438696704465" TEXT="stately, polite to women">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438697064933" ID="ID_620689656" MODIFIED="1438697250279" TEXT="should cost less">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438696333994" ID="ID_1855393007" MODIFIED="1438696337354" TEXT="Stout">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438696644382" ID="ID_1678611571" MODIFIED="1438696658628" TEXT="bulky, brave, dauntless">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438697076194" ID="ID_1674742381" MODIFIED="1438697281302" TEXT="should be higher defense   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438696405734" ID="ID_1457720736" MODIFIED="1438696409569" TEXT="Paragon">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438696603231" ID="ID_1105882513" MODIFIED="1438696622313" TEXT="a model of excellence">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438697225456" ID="ID_592931308" MODIFIED="1438697288974" TEXT="ultimately rare and is the sum of all other effects on one card.    ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="yes"/>
+</node>
+</node>
+</node>
 <node CREATED="1438399760432" ID="ID_1610727602" MODIFIED="1438399766241" TEXT="Legendary">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+<node CREATED="1438696411398" ID="ID_970574139" MODIFIED="1438696415411" TEXT="Mythic">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438696525500" ID="ID_377800414" MODIFIED="1438696532410" TEXT="Fabled">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438696143987" ID="ID_1690348789" MODIFIED="1438696147876" TEXT="Limited">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438697673646" ID="ID_1822863630" MODIFIED="1438697679876" TEXT="Holographic">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438697681682" ID="ID_652852369" MODIFIED="1438697691086" TEXT="Animated">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438697691908" ID="ID_979863158" MODIFIED="1438697701424" TEXT="Bronze">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438697702063" ID="ID_1438865932" MODIFIED="1438697705883" TEXT="Silver">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438697706737" ID="ID_552905143" MODIFIED="1438697710067" TEXT="Gold">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438697564715" ID="ID_519386040" MODIFIED="1438697575769" TEXT="stout and valiant need to be equally rare  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438697615130" ID="ID_1238012242" MODIFIED="1438697629694" TEXT="it&apos;s hard to put a value on the others  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438697755158" ID="ID_702489751" MODIFIED="1438697799030" TEXT="the idea is that there are no rare cards that are rare by themselves. There are rare versions of cards that have those stat boosts to them in comparison to their common counterpart.   ">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
