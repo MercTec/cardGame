@@ -542,13 +542,13 @@
 </node>
 <node CREATED="1438550459482" ID="ID_1942060126" MODIFIED="1438550467595" TEXT="Mace">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438559531644" ID="ID_728119764" MODIFIED="1438559572154" TEXT="Deals bleed damage to foes with low starting armor.  ">
+<node CREATED="1438559580824" ID="ID_1819341114" MODIFIED="1438559597791" TEXT="Destroys or damages a shield if equipped.  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 <node CREATED="1438555964182" ID="ID_712054007" MODIFIED="1438555967920" TEXT="Flail">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438559580824" ID="ID_1819341114" MODIFIED="1438559597791" TEXT="Destroys or damages a shield if equipped.  ">
+<node CREATED="1438559531644" ID="ID_728119764" MODIFIED="1438559572154" TEXT="Deals bleed damage to foes with low starting armor.  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
