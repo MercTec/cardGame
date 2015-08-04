@@ -220,43 +220,6 @@
 </node>
 </node>
 </node>
-<node CREATED="1438374043608" HGAP="38" ID="ID_1843476825" MODIFIED="1438526212064" POSITION="right" TEXT="Casual Play / Quick Match  " VSHIFT="36">
-<font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="full-4"/>
-<icon BUILTIN="button_ok"/>
-<node CREATED="1438374584787" ID="ID_595425354" MODIFIED="1438377869499" TEXT="Deck Size: 40 cards">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438382362774" ID="ID_32864392" MODIFIED="1438382371431" TEXT="if a game is a tie">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438382372032" ID="ID_500271928" MODIFIED="1438382382896" TEXT="both players lose">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-</node>
-<node CREATED="1438374592815" ID="ID_1113976668" MODIFIED="1438382977071" TEXT="Hand Size: 4 - 10">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-<node CREATED="1438374044724" ID="ID_1451331780" MODIFIED="1438526215184" POSITION="right" TEXT="Ranked Play / Tournament Match  ">
-<font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="full-5"/>
-<icon BUILTIN="button_ok"/>
-<node CREATED="1438374624103" ID="ID_1289998393" MODIFIED="1438377869498" TEXT="Deck Size: 70 cards">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438378375257" ID="ID_1256635354" MODIFIED="1438379653548" TEXT="If a game is a tie">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438379655348" ID="ID_1557258509" MODIFIED="1438379736971" TEXT="Players assemble 40card deck from 70card deck">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438379738834" ID="ID_1980009799" MODIFIED="1438379758194" TEXT="if game is a tie both players lose">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1438374635420" ID="ID_194670900" MODIFIED="1438382982933" TEXT="Hand Size: 7 - 10">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
 <node CREATED="1438374675275" HGAP="4" ID="ID_791768982" MODIFIED="1438484611491" POSITION="left" TEXT="Name" VSHIFT="-19">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
@@ -398,6 +361,46 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438381502261" ID="ID_87230587" MODIFIED="1438382991672" TEXT="If a player draws cards so that their hand is more than 10 all excess drawn cards are destroyed">
 <font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438646276796" ID="ID_1473557953" MODIFIED="1438646282869" TEXT="Deck Size">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438374043608" HGAP="38" ID="ID_1843476825" MODIFIED="1438526212064" TEXT="Casual Play / Quick Match  " VSHIFT="36">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-4"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1438374584787" ID="ID_595425354" MODIFIED="1438377869499" TEXT="Deck Size: 40 cards">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438382362774" ID="ID_32864392" MODIFIED="1438382371431" TEXT="if a game is a tie">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438382372032" ID="ID_500271928" MODIFIED="1438382382896" TEXT="both players lose">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1438374592815" ID="ID_1113976668" MODIFIED="1438382977071" TEXT="Hand Size: 4 - 10">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1438374044724" ID="ID_1451331780" MODIFIED="1438526215184" TEXT="Ranked Play / Tournament Match  ">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-5"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1438374624103" ID="ID_1289998393" MODIFIED="1438377869498" TEXT="Deck Size: 70 cards">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438378375257" ID="ID_1256635354" MODIFIED="1438379653548" TEXT="If a game is a tie">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438379655348" ID="ID_1557258509" MODIFIED="1438379736971" TEXT="Players assemble 40card deck from 70card deck">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438379738834" ID="ID_1980009799" MODIFIED="1438379758194" TEXT="if game is a tie both players lose">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1438374635420" ID="ID_194670900" MODIFIED="1438382982933" TEXT="Hand Size: 7 - 10">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438529301680" HGAP="19" ID="ID_356138530" MODIFIED="1438529747226" TEXT="Morale" VSHIFT="12">
