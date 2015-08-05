@@ -160,6 +160,9 @@
 <node CREATED="1438530426552" ID="ID_1552248630" MODIFIED="1438640675544" TEXT="Proficiency with Commander Morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="help"/>
+<node CREATED="1438734703630" ID="ID_1881364803" MODIFIED="1438734726087" TEXT="this may be obsolete">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438530427163" ID="ID_31738681" MODIFIED="1438530515336" TEXT="Proficiency with Combatant Morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -392,6 +395,9 @@
 <node CREATED="1438380338874" ID="ID_1851349555" MODIFIED="1438483995327" TEXT="Resources that you build are always added at the beginning of your next turn   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+<node CREATED="1438735118864" ID="ID_254662752" MODIFIED="1438735148261" TEXT="Bulders are played face down.    ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 <node CREATED="1438380626148" ID="ID_1575885394" MODIFIED="1438534818601" TEXT="Should there be just food based resource or weapon/defense based resource?  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438380674801" ID="ID_1286120601" MODIFIED="1438484002598" TEXT="for now just one blanket resource called...Resource   ">
@@ -468,6 +474,11 @@
 <icon BUILTIN="help"/>
 <node CREATED="1438561604225" ID="ID_1771502473" MODIFIED="1438561638388" TEXT="Players may recuperate if the facility was built   ">
 <font NAME="SansSerif" SIZE="17"/>
+<node CREATED="1438734766529" ID="ID_1583308484" MODIFIED="1438734766529" TEXT="">
+<node CREATED="1438734768942" ID="ID_584704476" MODIFIED="1438734817982" TEXT="Facility? I&apos;m not sure this is going to be good. Somehow incorporate heals into the game or we have to find another factor of strategy for the Wairds.    ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
 </node>
 <node CREATED="1438561645556" ID="ID_1049680636" MODIFIED="1438643680343" TEXT="Armor can be repaired, effects from poisons and bleed can be removed   ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -481,6 +492,9 @@
 <node CREATED="1438567267111" ID="ID_1954691642" MODIFIED="1438567513076" TEXT="All these cards grow in stats as you play the game!  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+<node CREATED="1438734844390" ID="ID_1204359016" MODIFIED="1438734897091" TEXT="Now you can train these cards into ShieldBearer and Advisor. One serves as a shield when things go real bad and the other further helps with morale and resources.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438693791240" ID="ID_1900446540" MODIFIED="1438693915270" TEXT="Raids">
 <font NAME="SansSerif" SIZE="16"/>
@@ -489,6 +503,15 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438693862020" ID="ID_471515655" MODIFIED="1438693896580" TEXT="Sometimes costly for both sides. Sometimes backfires. Sometimes brings great loot to the raider.    ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438734986519" ID="ID_1877433213" MODIFIED="1438735003953" TEXT="Whoever goes to the raid does not build resources for the duration of the raid.   ">
+<font NAME="SansSerif" SIZE="17"/>
+</node>
+<node CREATED="1438735208615" ID="ID_1976452750" MODIFIED="1438735388927" TEXT="Currently raids are decided by the total defense and total strength of each team. If the offensive team dies then the raid is defeated. If no one dies then the raid deals a blow to the resources of the enemy. If the enemy dies then the enemy&apos;s resources are damaged and there is a bonus of resources awarded for winning the raid.     ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438735414000" ID="ID_1058993510" MODIFIED="1438735450051" TEXT="Not sure if there should be builder casualties or not. Maybe one random unit for whichever team loses.    ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
