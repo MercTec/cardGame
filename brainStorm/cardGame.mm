@@ -226,13 +226,15 @@
 </node>
 </node>
 </node>
-<node CREATED="1438374675275" HGAP="4" ID="ID_791768982" MODIFIED="1438484611491" POSITION="left" TEXT="Name" VSHIFT="-19">
+<node CREATED="1438374675275" HGAP="4" ID="ID_791768982" MODIFIED="1438827481968" POSITION="left" TEXT="Name" VSHIFT="-19">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
+<icon BUILTIN="idea"/>
 <node CREATED="1438375161717" ID="ID_1544914877" MODIFIED="1438377869497" TEXT="???">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438826285134" ID="ID_747658102" MODIFIED="1438826291971" TEXT="Master of Arms  ">
+<node CREATED="1438826285134" ID="ID_747658102" MODIFIED="1438827491528" TEXT="Master of Arms  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
 </node>
 <node CREATED="1438826344348" ID="ID_1401628481" MODIFIED="1438826358350" TEXT="The Legend of the Master of Arms   ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -243,35 +245,43 @@
 <node CREATED="1438826382578" ID="ID_1055141132" MODIFIED="1438826390556" TEXT="The Fable of the Master of Arms   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438826621604" ID="ID_812257319" MODIFIED="1438826629812" TEXT="Commandant  ">
+<node CREATED="1438826621604" ID="ID_812257319" MODIFIED="1438827496135" TEXT="Commandant  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
 </node>
 <node CREATED="1438826630586" ID="ID_1772216141" MODIFIED="1438826653421" TEXT="Commandant Master  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438826654339" ID="ID_212500785" MODIFIED="1438826663354" TEXT="Master of Command  ">
+<node CREATED="1438826654339" ID="ID_212500785" MODIFIED="1438827500168" TEXT="Master of Command  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
 </node>
-<node CREATED="1438826668913" ID="ID_1032877468" MODIFIED="1438826674669" TEXT="Lord Paramount  ">
+<node CREATED="1438826668913" ID="ID_1032877468" MODIFIED="1438827518415" TEXT="Lord Paramount  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="prepare"/>
 </node>
 <node CREATED="1438826772562" ID="ID_747101921" MODIFIED="1438826797445" TEXT="Champion of Tact  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438826798330" ID="ID_1335469310" MODIFIED="1438826805766" TEXT="The Epic of Champions  ">
+<node CREATED="1438826798330" ID="ID_1335469310" MODIFIED="1438827601855" TEXT="The Epic of Champions  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="prepare"/>
 </node>
-<node CREATED="1438826807097" ID="ID_353085854" MODIFIED="1438826822412" TEXT="The Lord of Champions  ">
+<node CREATED="1438826807097" ID="ID_353085854" MODIFIED="1438827527664" TEXT="The Lord of Champions  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="prepare"/>
 </node>
-<node CREATED="1438826830484" ID="ID_1897597865" MODIFIED="1438827191291" TEXT="The Epic Fable of the Legend of Lord Paramount Commandant Master of Champions">
+<node CREATED="1438826830484" ID="ID_1897597865" MODIFIED="1438827511472" TEXT="The Epic Fable of the Legend of Lord Paramount Commandant Master of Champions">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="stop"/>
 </node>
 <node CREATED="1438827056339" ID="ID_661247027" MODIFIED="1438827063009" TEXT="War of Resource  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438827090680" ID="ID_882013733" MODIFIED="1438827098847" TEXT="The Legend of Lord Paramount  ">
+<node CREATED="1438827090680" ID="ID_882013733" MODIFIED="1438827716983" TEXT="The Legend of Lord Paramount  ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="xmag"/>
 </node>
 </node>
 </node>
