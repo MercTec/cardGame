@@ -231,6 +231,48 @@
 <icon BUILTIN="full-1"/>
 <node CREATED="1438375161717" ID="ID_1544914877" MODIFIED="1438377869497" TEXT="???">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438826285134" ID="ID_747658102" MODIFIED="1438826291971" TEXT="Master of Arms  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826344348" ID="ID_1401628481" MODIFIED="1438826358350" TEXT="The Legend of the Master of Arms   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826359049" ID="ID_1838632496" MODIFIED="1438826369487" TEXT="The Epic of the Master of Arms   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826382578" ID="ID_1055141132" MODIFIED="1438826390556" TEXT="The Fable of the Master of Arms   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826621604" ID="ID_812257319" MODIFIED="1438826629812" TEXT="Commandant  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826630586" ID="ID_1772216141" MODIFIED="1438826653421" TEXT="Commandant Master  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826654339" ID="ID_212500785" MODIFIED="1438826663354" TEXT="Master of Command  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826668913" ID="ID_1032877468" MODIFIED="1438826674669" TEXT="Lord Paramount  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826772562" ID="ID_747101921" MODIFIED="1438826797445" TEXT="Champion of Tact  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826798330" ID="ID_1335469310" MODIFIED="1438826805766" TEXT="The Epic of Champions  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826807097" ID="ID_353085854" MODIFIED="1438826822412" TEXT="The Lord of Champions  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438826830484" ID="ID_1897597865" MODIFIED="1438827191291" TEXT="The Epic Fable of the Legend of Lord Paramount Commandant Master of Champions">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438827056339" ID="ID_661247027" MODIFIED="1438827063009" TEXT="War of Resource  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438827090680" ID="ID_882013733" MODIFIED="1438827098847" TEXT="The Legend of Lord Paramount  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438374777339" ID="ID_1313363426" MODIFIED="1438561284486" POSITION="left" TEXT="Slogan" VSHIFT="1">
@@ -289,8 +331,9 @@
 <node CREATED="1438378875952" ID="ID_304513845" MODIFIED="1438378917290" TEXT="Determine first Player">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438378918674" ID="ID_373798538" MODIFIED="1438378942128" TEXT="Second Player chooses Terrain">
+<node CREATED="1438378918674" ID="ID_373798538" MODIFIED="1438823792625" TEXT="Second Player chooses Terrain">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
 <node CREATED="1438379845331" ID="ID_1900300996" MODIFIED="1438483973936" TEXT="Should both players get to choose?  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438530304712" ID="ID_221039608" MODIFIED="1438566970772" TEXT="Current thoughts are that I&apos;m not sure which one should be.    ">
@@ -317,10 +360,11 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-6"/>
 </node>
-<node CREATED="1438710278037" ID="ID_82926819" MODIFIED="1438710297972" TEXT="Move Units">
+<node CREATED="1438710278037" ID="ID_82926819" MODIFIED="1438823388238" TEXT="Move Units">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-7"/>
 <icon BUILTIN="help"/>
+<icon BUILTIN="yes"/>
 <node CREATED="1438710321635" ID="ID_129187418" MODIFIED="1438710332324" TEXT="this feature may be wrong">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -333,46 +377,59 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-9"/>
 </node>
-<node CREATED="1438379793453" ID="ID_834632746" MODIFIED="1438710531345" TEXT="Repeat steps 3 - 10. Steps 4-8 may occur in any order.   1  ">
+<node CREATED="1438379793453" ID="ID_834632746" MODIFIED="1438823420490" TEXT="Repeat steps 3 - 10. Steps 4-8 may occur in any order. ">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-1"/>
 <icon BUILTIN="full-0"/>
 </node>
 </node>
 <node CREATED="1438379502653" ID="ID_1506992418" MODIFIED="1438379519405" TEXT="Attributes of Game Play">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438379020071" ID="ID_208284891" MODIFIED="1438382635365" TEXT="Terrain" VSHIFT="-19">
+<node CREATED="1438379020071" ID="ID_208284891" MODIFIED="1438823706202" TEXT="Terrain" VSHIFT="-24">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438379382506" ID="ID_25419337" MODIFIED="1438379433237" TEXT="Each terrain has certain adv/disadv">
+<node CREATED="1438379382506" HGAP="22" ID="ID_25419337" MODIFIED="1438823612866" TEXT="Each terrain has certain adv/disadv" VSHIFT="-14">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438379041447" ID="ID_1046611418" MODIFIED="1438379091032" TEXT="Castle/Fort">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438379439642" ID="ID_466867914" MODIFIED="1438379823501" TEXT="More defensible">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438823475919" ID="ID_919865422" MODIFIED="1438823651111" TEXT="there is two 1x3 archery towers on either side of a 2x5 infantry formation  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438379448884" ID="ID_941807504" MODIFIED="1438379823501" TEXT="harder to build resources">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438823567711" ID="ID_1010422783" MODIFIED="1438823599958" TEXT="The builders lie to the lower right of the combatants in a 2x3  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438379051839" ID="ID_1291270469" MODIFIED="1438379088442" TEXT="Siege/Domain">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438379471933" ID="ID_1349092652" MODIFIED="1438379823499" TEXT="less defensible">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438652379666" ID="ID_1561299023" MODIFIED="1438655850821" TEXT="there is 1 row of 7 slots and 2 rows of 5 ordered front to back for combatants.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438379476186" ID="ID_59240240" MODIFIED="1438379823500" TEXT="easier to build resources">
 <font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
-</node>
-<node CREATED="1438652379666" ID="ID_1561299023" MODIFIED="1438655850821" TEXT="there is 1 row of 7 slots and 2 rows of 5 ordered front to back for combatants.   ">
+<node CREATED="1438652492318" ID="ID_440118076" MODIFIED="1438652616828" TEXT="The builders lie to the upper right of the combatants in a 3x3.  ">
 <font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1438652462847" ID="ID_1688081592" MODIFIED="1438655889480" TEXT="The commander lies behind them all. If trained, an advisor and shield bearer may accompany the commander.   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438652492318" ID="ID_440118076" MODIFIED="1438652616828" TEXT="The builders lie to the upper right of the combatants in a 3x3.  ">
+<node CREATED="1438823747358" ID="ID_816411569" MODIFIED="1438823758059" TEXT="Builders are played face down.   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 <node CREATED="1438652549693" ID="ID_1264774861" MODIFIED="1438652592218" TEXT="the deck lies to the right of the builders and the discard pile lies above the deck.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438825220738" ID="ID_23871882" MODIFIED="1438825225202" TEXT="The commander may go onto the battlefield and fight. This has strong boosts to morale but if the commander dies, he dies indeed.    ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -395,23 +452,25 @@
 <node CREATED="1438380338874" ID="ID_1851349555" MODIFIED="1438483995327" TEXT="Resources that you build are always added at the beginning of your next turn   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438735118864" ID="ID_254662752" MODIFIED="1438735148261" TEXT="Bulders are played face down.    ">
+<node CREATED="1438380626148" ID="ID_1575885394" MODIFIED="1438823783771" TEXT="Should there be just food based resource or weapon/defense based resource?  ">
 <font NAME="SansSerif" SIZE="16"/>
-</node>
-<node CREATED="1438380626148" ID="ID_1575885394" MODIFIED="1438534818601" TEXT="Should there be just food based resource or weapon/defense based resource?  ">
-<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
 <node CREATED="1438380674801" ID="ID_1286120601" MODIFIED="1438484002598" TEXT="for now just one blanket resource called...Resource   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
-<node CREATED="1438381478278" ID="ID_445272417" MODIFIED="1438382646229" TEXT="Hand Size" VSHIFT="23">
+<node CREATED="1438381478278" ID="ID_445272417" MODIFIED="1438823810169" TEXT="Hand Size" VSHIFT="23">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
 <node CREATED="1438381502261" ID="ID_87230587" MODIFIED="1438382991672" TEXT="If a player draws cards so that their hand is more than 10 all excess drawn cards are destroyed">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438823813074" ID="ID_1501779834" MODIFIED="1438823826179" TEXT="should it be 10 or 12 or limitless?  ">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438646276796" ID="ID_1473557953" MODIFIED="1438696017887" TEXT="Deck Size">
+</node>
+<node CREATED="1438646276796" ID="ID_1473557953" MODIFIED="1438823949944" TEXT="Deck Size" VSHIFT="-12">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <node CREATED="1438374043608" HGAP="38" ID="ID_1843476825" MODIFIED="1438696032235" TEXT="Casual Play / Quick Match  " VSHIFT="36">
@@ -448,7 +507,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1438529301680" HGAP="19" ID="ID_356138530" MODIFIED="1438529747226" TEXT="Morale" VSHIFT="12">
+<node CREATED="1438529301680" HGAP="19" ID="ID_356138530" MODIFIED="1438823946657" TEXT="Morale" VSHIFT="-14">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438529314657" ID="ID_1698579317" MODIFIED="1438529391890" TEXT="Combatants will likely flee the battle if the commander dies   ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -456,11 +515,11 @@
 <node CREATED="1438529393809" ID="ID_923078812" MODIFIED="1438529411471" TEXT="Commanders will likely flee the battle if the combatants die   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438529430270" ID="ID_99454325" MODIFIED="1438529474078" TEXT="If Castle/Home is destroyed then the combatants and the commander will not perform as well   ">
+<node CREATED="1438529430270" ID="ID_99454325" MODIFIED="1438823875146" TEXT="If Castle/Home is destroyed then the combatants and the commander will not perform as well and may cause a chain reaction of flight from the combatants to the commander.   ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438556414596" ID="ID_91347889" MODIFIED="1438556419325" TEXT="Prestige">
+<node CREATED="1438556414596" ID="ID_91347889" MODIFIED="1438823940761" TEXT="Prestige" VSHIFT="-11">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438556422637" ID="ID_441607112" MODIFIED="1438556468286" TEXT="The value that represents the Commander&apos;s greatness in the eyes of his Combatants   ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -469,7 +528,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438561595306" ID="ID_1934153968" MODIFIED="1438643687567" TEXT="Recuperation">
+<node CREATED="1438561595306" ID="ID_1934153968" MODIFIED="1438823937064" TEXT="Recuperation" VSHIFT="-18">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="help"/>
 <node CREATED="1438561604225" ID="ID_1771502473" MODIFIED="1438561638388" TEXT="Players may recuperate if the facility was built   ">
@@ -496,7 +555,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438693791240" ID="ID_1900446540" MODIFIED="1438693915270" TEXT="Raids">
+<node CREATED="1438693791240" HGAP="18" ID="ID_1900446540" MODIFIED="1438823931992" TEXT="Raids" VSHIFT="27">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <node CREATED="1438693797792" ID="ID_442344043" MODIFIED="1438693859916" TEXT="They&apos;re actual raids! When a raid card is played, any or all of your builders may be selected for the raid and sent off to fight your opponent&apos;s builders.   ">
@@ -607,7 +666,7 @@
 </node>
 <node CREATED="1438550307012" ID="ID_1845062047" MODIFIED="1438550312468" TEXT="Sling">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438559444715" ID="ID_1184388914" MODIFIED="1438569904040" TEXT="Range 1-2, high critical hit">
+<node CREATED="1438559444715" ID="ID_1184388914" MODIFIED="1438825883098" TEXT="Range 1-2, high critical hit low strength">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -637,13 +696,13 @@
 </node>
 <node CREATED="1438555901120" ID="ID_1359147226" MODIFIED="1438555914160" TEXT="Throwing Knife">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438559609924" ID="ID_724853549" MODIFIED="1438559614751" TEXT="Range 2">
+<node CREATED="1438559609924" ID="ID_724853549" MODIFIED="1438825930613" TEXT="Range 1-2">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 <node CREATED="1438555914942" ID="ID_57270522" MODIFIED="1438555921284" TEXT="Throwing Axe">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438559617973" ID="ID_195967834" MODIFIED="1438559622799" TEXT="Range 2">
+<node CREATED="1438559617973" ID="ID_195967834" MODIFIED="1438825935344" TEXT="Range 1-2">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
