@@ -230,7 +230,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
 <icon BUILTIN="idea"/>
-<node CREATED="1438375161717" FOLDED="true" ID="ID_1544914877" MODIFIED="1438827926496" TEXT="???">
+<node CREATED="1438375161717" FOLDED="true" ID="ID_1544914877" MODIFIED="1438979415995" TEXT="???">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438826285134" ID="ID_747658102" MODIFIED="1438827491528" TEXT="Master of Arms  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -283,6 +283,29 @@
 <icon BUILTIN="go"/>
 <icon BUILTIN="xmag"/>
 </node>
+<node CREATED="1438978888473" ID="ID_1368800214" MODIFIED="1438978900016" TEXT="Master of Resources  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438978901023" ID="ID_511511965" MODIFIED="1438978924035" TEXT="War Master  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438978933364" ID="ID_203716017" MODIFIED="1438978984637" TEXT="Battle Master  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438978985869" ID="ID_173354936" MODIFIED="1438979014201" TEXT="Lord of Heroes">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438979015857" ID="ID_266004334" MODIFIED="1438979285944" TEXT="I&apos;chichikowaunohai">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="stop"/>
+<icon BUILTIN="xmag"/>
+</node>
+<node CREATED="1438979368998" ID="ID_490652688" MODIFIED="1438979375362" TEXT="Master and Command  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1438979217211" ID="ID_1430738526" MODIFIED="1438979329537" TEXT="All these names are terrible. We may need to consider those names and make something completely unique.   ">
+<font NAME="SansSerif" SIZE="20"/>
+</node>
 </node>
 </node>
 <node CREATED="1438374777339" ID="ID_1313363426" MODIFIED="1438561284486" POSITION="left" TEXT="Slogan" VSHIFT="1">
@@ -296,8 +319,9 @@
 <node CREATED="1438374802785" HGAP="27" ID="ID_451117220" MODIFIED="1438696058791" POSITION="left" TEXT="Rules" VSHIFT="-31">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-4"/>
-<node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438561275631" TEXT="Object of the Game/How to Win  " VSHIFT="-30">
+<node CREATED="1438374797161" ID="ID_1140213706" MODIFIED="1438979445528" TEXT="Object of the Game/How to Win  " VSHIFT="-30">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1438375267379" ID="ID_469122682" MODIFIED="1438529797120" TEXT="Defeat Your Opponent  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438376343840" ID="ID_155205356" MODIFIED="1438564855734" TEXT="When your oppoenent is gone you win.  ">
@@ -314,8 +338,9 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438375996144" ID="ID_1282356115" MODIFIED="1438377869493" TEXT="Castle/Home is destroyed">
+<node CREATED="1438375996144" ID="ID_1282356115" MODIFIED="1438984947834" TEXT="Castle/Home is destroyed">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
 <node CREATED="1438531216545" ID="ID_1898321938" MODIFIED="1438531292405" TEXT="Morale is dropped by half of the starting morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -646,7 +671,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438550277964" ID="ID_185510778" MODIFIED="1438550287978" TEXT="Sword">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438559377501" ID="ID_918285367" MODIFIED="1438692517442" TEXT="Either has chance to strike a second blow or does increased damage.  ">
+<node CREATED="1438559377501" ID="ID_918285367" MODIFIED="1438985405409" TEXT="Either has chance to strike a second blow or does increased damage against axes.  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>

@@ -14,10 +14,27 @@
 <node CREATED="1438700915023" ID="ID_177166470" MODIFIED="1438700970259" TEXT="Javascript is powerful for this too which is good. "/>
 <node CREATED="1438700972628" ID="ID_328432481" MODIFIED="1438701040588" TEXT="I&apos;m thinking to learn C first since I know how Java goes and see if I can&apos;t make a platform of my own.  "/>
 <node CREATED="1438709995173" ID="ID_1785205423" MODIFIED="1438710007602" TEXT="C is definitely THE choice"/>
+<node CREATED="1438980208457" ID="ID_644082404" MODIFIED="1438980300161" TEXT="portability is obviously an issue. If we code in Java there is a promise that we can run it on all platforms.  "/>
+<node CREATED="1438980301841" ID="ID_444314048" MODIFIED="1438980357477" TEXT="if we code in C then we may really be able to run it on all platforms since everything uses C. We would only have to watch out for the differences of shell commands and the C compiler and write code for those differences...."/>
+<node CREATED="1438980371951" ID="ID_1628088331" MODIFIED="1438980462520" TEXT="See the nature of Java&apos;s portability is constructed via a Virtual Machine. The VM is written to be portable on all platforms just like any program needs to be, but then the VM breaks your program down into straight binary and feeds it to the computer so that it works no matter what. "/>
+<node CREATED="1438980463297" ID="ID_482311782" MODIFIED="1438980515195" TEXT="Whereas C is natively portable and we would only have to know the differences of what native compiler exists on each platform and cover those differences in our own code."/>
+<node CREATED="1438980515811" ID="ID_1897353235" MODIFIED="1438980634915" TEXT="My argument is for C since I like the DIY and know it for yourself component to C. It is more work up front but let&apos;s face it, I don&apos;t know enough to trust Java to do it&apos;s job the way we would want it to be done. I&apos;d rather just do it myself and learn in the process. And that&apos;s what it&apos;s all about anyway.    "/>
+<node CREATED="1438980731716" ID="ID_351154028" MODIFIED="1438980838391" TEXT="We may be able to do some backend frontend hybrid. We code all the backend: server side portability stuff in C and then code all the front in JavaScript just like a web app. It may really work better than it looks. "/>
 </node>
-<node CREATED="1438381849427" ID="ID_1839140333" MODIFIED="1438381852481" POSITION="left" TEXT="Free to Play">
+<node CREATED="1438381849427" ID="ID_1839140333" MODIFIED="1438981181997" POSITION="left" TEXT="Free to Play">
 <node CREATED="1438381876960" ID="ID_757879482" MODIFIED="1438699183612" TEXT="takes about 4 hours of continual game play progress to get one pack of cards for free.   "/>
 <node CREATED="1438381908080" ID="ID_1697903401" MODIFIED="1438381934340" TEXT="everything in game is buyable either directly or indirectly"/>
+<node CREATED="1438981192314" ID="ID_83608642" MODIFIED="1438981208572" TEXT="this game needs to be entirely accessible without spending a dime as well. "/>
+<node CREATED="1438981212381" ID="ID_1117362650" MODIFIED="1438982026857" TEXT="it needs to be difficult to make progress in the game and collect more cards for free but it can never be effectively impossible "/>
+<node CREATED="1438981252685" ID="ID_853051494" MODIFIED="1438983071567" TEXT="somehow we need to put numbers to this."/>
+<node CREATED="1438981383416" ID="ID_1754004819" MODIFIED="1438981435096" TEXT="Definitely an interesting development because obviously there are multiple features like in Hearthstone. So how will we make them all equivalent to each other in terms of collection frequency?"/>
+<node CREATED="1438982072609" ID="ID_886603137" MODIFIED="1438982099386" TEXT="If a player could get more cards via one feature over another then that feature would be played.  "/>
+<node CREATED="1438981467297" ID="ID_1513389556" MODIFIED="1438982329285" TEXT="So this is where it all starts. By the absolute amount of time of 4 hours of continual game play progress = one pack of cards - this instantly sets the relative rarities of cards with respect to how many cards we make versus how long we want the game to last; if the game is considered ended when you collect every card."/>
+<node CREATED="1438982369591" ID="ID_1748166661" MODIFIED="1438983176241" TEXT="We obviously have to equate players on their percent completion of collection because if we do our job right then there should be no reason why any player would be any better than a player who had the same percent collection. If every feature of the game is somehow equalized to be just as important as every feature of the game then the percent availability of cards is what determines a players ability to make use of such strategies. Obviously this overall percent completion would not be static but dynamically calculated with respect to what faction you began with and what cards correlate to what factions - since cards would be more powerful or more useful for one faction versus another. What I mean to say is that if a player started out in Earda and got a ton of Gambishi cards then he would be higher percent completion if someone started out as Earda and got a ton of Waird cards since it is more difficult for Eardans to get Gambishi cards. So the percent completion is graded with respect to rarit; since rarity is graded with respect to necessity of strategy and that is graded with respect to having a complete strategy where that is the means of being better in the game - utilizing every aspect of each faction equally. "/>
+<node CREATED="1438982832921" ID="ID_1893329339" MODIFIED="1438983269583" TEXT="Hopefully that doesn&apos;t mean the strategy creation process is dulled since your deck will be made to just be better with more Gambishi cards, starting out Eardan. Hopefully the effects and things are complex enough to keep that from becoming too clear. We must avoid that phenomenon in whatever way possible. And yet it is becoming increasingly clear that this system is falling towards that reality. It gives me an idea."/>
+<node CREATED="1438983406846" ID="ID_1505435141" MODIFIED="1438983724786" TEXT="We make 2 circles of collections. One international collection and one national collection. A player may buy their national pack or choose to buy an international pack that represents every other faction in the game. We have two types of campaign to go along with this: national campaign and international campaign. You can thus build yourself up and your deck by being cosmopolitan or your can build up your nation and get the same kinds of cards that you would get from the other factions. So the national collection has the complete strategy (and thus a ton of cards comparatively) while the international collection is broken up by each faction and is therefore many smaller collections. This would allow for an effective doubling of the game where you basically get repeat cards between the national and international collections and it further hides the reality of strategy that you are better off by completing yourself with cards from the other factions.">
+<node CREATED="1438983768524" ID="ID_123958827" MODIFIED="1438983782978" TEXT="This may work or be horribly wrong."/>
+</node>
 </node>
 <node CREATED="1438383703980" ID="ID_1547696534" MODIFIED="1438383713754" POSITION="right" TEXT="Marketing">
 <node CREATED="1438383715960" ID="ID_1022005751" MODIFIED="1438383729383" TEXT="Competetion">
@@ -50,6 +67,15 @@
 <node CREATED="1438383900658" ID="ID_1925527104" MODIFIED="1438383901963" TEXT="fun"/>
 </node>
 </node>
+</node>
+<node CREATED="1438980868863" ID="ID_982986211" MODIFIED="1438980888777" TEXT="Cross Platform">
+<node CREATED="1438980890595" ID="ID_1332094657" MODIFIED="1438980905996" TEXT="We know we want to be natively supporting Linux"/>
+<node CREATED="1438980906445" ID="ID_813650366" MODIFIED="1438980927383" TEXT="But do we need to support Mac and Windows at all?"/>
+<node CREATED="1438980928153" ID="ID_1813829683" MODIFIED="1438980933247" TEXT="Linux is free"/>
+<node CREATED="1438980934192" ID="ID_384886248" MODIFIED="1438980961713" TEXT="Virtual machines can run Linux better than any other and our game would run just like that for windows or mac no problem."/>
+<node CREATED="1438980962482" ID="ID_1693469969" MODIFIED="1438980974012" TEXT="We could save ourselves a lot of work by not being portable at all."/>
+<node CREATED="1438980978406" ID="ID_988674600" MODIFIED="1438981010406" TEXT="The only portability we need is android. And that should be fun since it&apos;s a linux derivative."/>
+<node CREATED="1438981069582" ID="ID_1946263842" MODIFIED="1438981132815" TEXT="If we make the game excellent then the game will sell itself with an equally excellent marketing routine. We sell to all platforms but don&apos;t deploy to them and we improve linux popularity."/>
 </node>
 </node>
 </node>
