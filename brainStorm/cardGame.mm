@@ -152,6 +152,9 @@
 <icon BUILTIN="help"/>
 <node CREATED="1438710582824" ID="ID_329318657" MODIFIED="1438710601076" TEXT="so this means they have high movement and use bows?    ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439072664308" ID="ID_901961283" MODIFIED="1439072685172" TEXT="maybe give these guys Windspirit: allows units to move twice in one turn  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 </node>
@@ -172,6 +175,9 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438530428634" ID="ID_265842161" MODIFIED="1438530444989" TEXT="One is fast. ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439072648691" ID="ID_39486745" MODIFIED="1439072659628" TEXT="maybe give these guys high movement as well.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438530429237" ID="ID_1467352243" MODIFIED="1438530468307" TEXT="The other is strong.">
 <font NAME="SansSerif" SIZE="16"/>
@@ -182,7 +188,7 @@
 </node>
 <node CREATED="1438375416378" HGAP="19" ID="ID_1830502108" MODIFIED="1438377869501" TEXT="Huge world" VSHIFT="14">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438375427292" ID="ID_1062287290" MODIFIED="1438377869501" TEXT="mesopotamia">
+<node CREATED="1438375427292" ID="ID_1062287290" MODIFIED="1439072510502" TEXT="pangaea">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -230,7 +236,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
 <icon BUILTIN="idea"/>
-<node CREATED="1438375161717" ID="ID_1544914877" MODIFIED="1438994541110" TEXT="???">
+<node CREATED="1438375161717" FOLDED="true" ID="ID_1544914877" MODIFIED="1439067322268" TEXT="???">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438826285134" ID="ID_747658102" MODIFIED="1438827491528" TEXT="Master of Arms  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -519,8 +525,12 @@
 </node>
 </node>
 </node>
-<node CREATED="1438374592815" ID="ID_1113976668" MODIFIED="1438382977071" TEXT="Hand Size: 4 - 10">
+<node CREATED="1438374592815" ID="ID_1113976668" MODIFIED="1439073127379" TEXT="Hand Size: 4 - 10">
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
+<node CREATED="1439073130762" ID="ID_1943464879" MODIFIED="1439073140593" TEXT="maybe should be 5 starting  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438374044724" ID="ID_1451331780" MODIFIED="1438696029737" TEXT="Ranked Play / Tournament Match  ">
@@ -609,6 +619,15 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
+<node CREATED="1439072857177" ID="ID_730565808" MODIFIED="1439072866335" TEXT="Disarming a Unit  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439072867382" ID="ID_1034268202" MODIFIED="1439072889970" TEXT="If a unit is disarmed by another unit or effect then that unit will die next hit.  ">
+<font NAME="SansSerif" SIZE="17"/>
+</node>
+<node CREATED="1439072915324" ID="ID_126869858" MODIFIED="1439072936537" TEXT="Being disarmed is having no equipped item of any kind.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
 </node>
 <node CREATED="1438526139670" ID="ID_1685985205" MODIFIED="1438529727203" TEXT="Attributes of Card Design" VSHIFT="25">
 <font NAME="SansSerif" SIZE="16"/>
@@ -655,7 +674,7 @@
 <node CREATED="1438691733089" ID="ID_265603749" MODIFIED="1438691776470" TEXT="the amount a unit can move around on the battlefield in a single turn.  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438693003228" ID="ID_992518294" MODIFIED="1438697371388" TEXT="0-8 movement is possible right now  ">
+<node CREATED="1438693003228" ID="ID_992518294" MODIFIED="1439071415783" TEXT="0-7 movement is possible right now  ">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -765,6 +784,19 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
+<node CREATED="1439072038697" ID="ID_956535143" MODIFIED="1439072147371" TEXT="Stealth">
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="help"/>
+<node CREATED="1439072047679" ID="ID_1719208420" MODIFIED="1439072064809" TEXT="shield effects are ignored for enemies in stealth   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1439072107749" ID="ID_44109867" MODIFIED="1439072133594" TEXT="revealed if enemy unit is in 1 range of combatant.   ">
+<font NAME="SansSerif" SIZE="15"/>
+</node>
+<node CREATED="1439072134338" ID="ID_1366556659" MODIFIED="1439072141133" TEXT="lasts 3 turns  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
 <node CREATED="1438555950007" ID="ID_1885947371" MODIFIED="1438560021482" TEXT="Cannons">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438560111748" ID="ID_486481952" MODIFIED="1438560120937" TEXT="Range 4">
@@ -814,7 +846,7 @@
 <node CREATED="1438399745433" ID="ID_1982109302" MODIFIED="1438399759452" TEXT="Epic">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438696726265" ID="ID_1046924066" MODIFIED="1438696730479" TEXT="Heroic">
+<node CREATED="1438696726265" ID="ID_1046924066" MODIFIED="1439071679177" TEXT="Heroic">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438696863585" ID="ID_1107763554" MODIFIED="1438696881712" TEXT="altruistic, sacrificial and grand">
 <font NAME="SansSerif" SIZE="16"/>
