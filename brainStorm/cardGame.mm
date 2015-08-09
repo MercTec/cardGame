@@ -194,9 +194,6 @@
 </node>
 <node CREATED="1438377813787" ID="ID_1612253479" MODIFIED="1438377881119" TEXT="Story line akin to Fire Emblem">
 <font NAME="SansSerif" SIZE="15"/>
-<node CREATED="1438377859601" ID="ID_1929006997" MODIFIED="1438377881117" TEXT="like chapters in a book">
-<font NAME="SansSerif" SIZE="15"/>
-</node>
 </node>
 <node CREATED="1438378126596" ID="ID_1455942867" MODIFIED="1438378180112" TEXT="Mental Picture">
 <font NAME="SansSerif" SIZE="16"/>
@@ -236,7 +233,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
 <icon BUILTIN="idea"/>
-<node CREATED="1438375161717" FOLDED="true" ID="ID_1544914877" MODIFIED="1439067322268" TEXT="???">
+<node CREATED="1438375161717" FOLDED="true" ID="ID_1544914877" MODIFIED="1439156410490" TEXT="???">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438826285134" ID="ID_747658102" MODIFIED="1438827491528" TEXT="Master of Arms  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -288,6 +285,12 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="go"/>
 <icon BUILTIN="xmag"/>
+</node>
+<node CREATED="1439151344679" ID="ID_521243585" MODIFIED="1439151353926" TEXT="The Legend of Lord Paragon   ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439151361061" ID="ID_943650937" MODIFIED="1439151398753" TEXT="similar names but dubious. We could make this a mysterious figure that you attain to in the game.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node CREATED="1438978888473" ID="ID_1368800214" MODIFIED="1438978900016" TEXT="Master of Resources  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -684,7 +687,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1438548389068" HGAP="23" ID="ID_409333576" MODIFIED="1438559179623" TEXT="Weapon Type" VSHIFT="23">
+<node CREATED="1438548389068" HGAP="23" ID="ID_409333576" MODIFIED="1439152462034" TEXT="Weapon Type" VSHIFT="21">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438559278715" ID="ID_1445471995" MODIFIED="1438560165408" TEXT="We will use the Weapon Triangle and more. &#xa;Every weapon will have a specific ability.  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -784,19 +787,6 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node CREATED="1439072038697" ID="ID_956535143" MODIFIED="1439072147371" TEXT="Stealth">
-<font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="help"/>
-<node CREATED="1439072047679" ID="ID_1719208420" MODIFIED="1439072064809" TEXT="shield effects are ignored for enemies in stealth   ">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node CREATED="1439072107749" ID="ID_44109867" MODIFIED="1439072133594" TEXT="revealed if enemy unit is in 1 range of combatant.   ">
-<font NAME="SansSerif" SIZE="15"/>
-</node>
-<node CREATED="1439072134338" ID="ID_1366556659" MODIFIED="1439072141133" TEXT="lasts 3 turns  ">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
 <node CREATED="1438555950007" ID="ID_1885947371" MODIFIED="1438560021482" TEXT="Cannons">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438560111748" ID="ID_486481952" MODIFIED="1438560120937" TEXT="Range 4">
@@ -820,6 +810,96 @@
 <node CREATED="1438561818022" ID="ID_1347182225" MODIFIED="1438561822064" TEXT="Range 4">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+</node>
+</node>
+</node>
+<node CREATED="1439152327736" HGAP="19" ID="ID_344128199" MODIFIED="1439152470015" TEXT="State   " VSHIFT="25">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439152342127" ID="ID_1115005298" MODIFIED="1439152377238" TEXT="Healthy  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439152378893" ID="ID_664851747" MODIFIED="1439152450674" TEXT="recover from damaging life effects one turn sooner. If damaging effect is instant death then prolong it by one turn instead.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439152484625" ID="ID_1231685766" MODIFIED="1439152490038" TEXT="Stealth">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439072047679" ID="ID_1719208420" MODIFIED="1439152522537" TEXT="shield effects are ignored for enemies while in stealth   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1439072107749" ID="ID_44109867" MODIFIED="1439072133594" TEXT="revealed if enemy unit is in 1 range of combatant.   ">
+<font NAME="SansSerif" SIZE="15"/>
+</node>
+<node CREATED="1439072134338" ID="ID_1366556659" MODIFIED="1439072141133" TEXT="lasts 3 turns  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439152541924" ID="ID_1764347233" MODIFIED="1439152568180" TEXT="Bleeding  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439152571472" ID="ID_1696073225" MODIFIED="1439152596390" TEXT="incur damage at the end of each player&apos;s turn   ">
+<font NAME="SansSerif" SIZE="15"/>
+</node>
+<node CREATED="1439152597385" ID="ID_452673127" MODIFIED="1439152607933" TEXT="lasts 3 turns   ">
+<font NAME="SansSerif" SIZE="15"/>
+</node>
+</node>
+<node CREATED="1439152611159" ID="ID_813115957" MODIFIED="1439152626660" TEXT="Poisoned  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439152627244" ID="ID_1092787087" MODIFIED="1439152638463" TEXT="varied effects">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439152639398" ID="ID_1553582218" MODIFIED="1439152659725" TEXT="Some incur damage for 3 turns">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1439152660612" ID="ID_1586677031" MODIFIED="1439152677586" TEXT="Some create instant death in 3 turns  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1439152678936" ID="ID_385658192" MODIFIED="1439152714149" TEXT="Some cause combatant to attack random units in range for 3 turns   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1439152960794" ID="ID_1787718476" MODIFIED="1439152969254" TEXT="and more  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+<node CREATED="1439154556859" ID="ID_1567744693" MODIFIED="1439154564349" TEXT="Adrenaline">
+<font NAME="SansSerif" SIZE="17"/>
+<node CREATED="1439154567429" ID="ID_231825639" MODIFIED="1439154584736" TEXT="Increased speed and strength for 3 turns.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439154721872" ID="ID_1339470341" MODIFIED="1439154726868" TEXT="Dead Eye  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439154729700" ID="ID_19270176" MODIFIED="1439154737997" TEXT="increased hit for 3 turns.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439154911998" ID="ID_1480368770" MODIFIED="1439154917203" TEXT="Die Hard ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439154918034" ID="ID_1486541012" MODIFIED="1439154925737" TEXT="cannot die for one turn.   ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439155104826" ID="ID_1442962953" MODIFIED="1439155138578" TEXT="WindSpirit  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439153462497" ID="ID_657840290" MODIFIED="1439155153206" TEXT="allows moving twice in one turn.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439154989598" ID="ID_1592708940" MODIFIED="1439155002625" TEXT="EarthSpirit  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439155054613" ID="ID_1583297784" MODIFIED="1439156361791" TEXT="cannot receive critical hits">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439155027328" ID="ID_312727622" MODIFIED="1439155033186" TEXT="FireSpirit ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439155089406" ID="ID_1555041179" MODIFIED="1439155882152" TEXT="attack twice in one turn. ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node CREATED="1439155033912" ID="ID_886470261" MODIFIED="1439155039621" TEXT="WaterSpirit  ">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439155095265" ID="ID_480484746" MODIFIED="1439156325011" TEXT="chance to dodge an attack  ">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
