@@ -233,7 +233,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
 <icon BUILTIN="idea"/>
-<node CREATED="1438375161717" FOLDED="true" ID="ID_1544914877" MODIFIED="1439156410490" TEXT="???">
+<node CREATED="1438375161717" FOLDED="true" ID="ID_1544914877" MODIFIED="1439213416380" TEXT="Civil">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438826285134" ID="ID_747658102" MODIFIED="1438827491528" TEXT="Master of Arms  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -314,6 +314,9 @@
 </node>
 <node CREATED="1438979217211" ID="ID_1430738526" MODIFIED="1438979329537" TEXT="All these names are terrible. We may need to consider those names and make something completely unique.   ">
 <font NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1439212237469" ID="ID_1340421515" MODIFIED="1439212410582" TEXT="It&apos;s possible that we could find a word in another language that meant something significant for the game. An example is chess which comes from the French word &quot;echecs&quot; which means to &quot;check, blow, rebuff, stop, defeat.&quot; That is the perfect word for chess which is why it stuck in our language. What is the perfect word for this game? Maybe we could give it international names simply through a common word.   ">
+<font NAME="SansSerif" SIZE="17"/>
 </node>
 </node>
 </node>
