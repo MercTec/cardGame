@@ -50,12 +50,18 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527547251" ID="ID_1623134253" MODIFIED="1438527583518" TEXT="Germanic - light brown to dark brown   ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439217798046" ID="ID_775895180" MODIFIED="1439217840273" TEXT="strong in EarthSpirit">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438467655286" ID="ID_1064840437" MODIFIED="1438467659943" TEXT="Waird">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527497780" ID="ID_134631107" MODIFIED="1438527539076" TEXT="Viking type people - blonde and redhead   ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439217809940" ID="ID_1734189046" MODIFIED="1439217836939" TEXT="Medium Strength in Earth and WaterSpirit">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 </node>
@@ -65,12 +71,18 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527617781" ID="ID_1082512945" MODIFIED="1438527695026" TEXT="Korean/Chinese ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439218036704" ID="ID_1280624527" MODIFIED="1439218046109" TEXT="Strong in WaterSpirit.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438467682849" ID="ID_1514045953" MODIFIED="1438484293209" TEXT="Dan Feng">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527701260" ID="ID_1833661276" MODIFIED="1438527716763" TEXT="Japanese/Tai">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439218066486" ID="ID_35524773" MODIFIED="1439218084092" TEXT="Medium Strength in Water and FireSpirit.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 </node>
@@ -80,12 +92,18 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527768947" ID="ID_137094052" MODIFIED="1438527824998" TEXT="Taller and more strict  ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439217865548" ID="ID_1926758769" MODIFIED="1439217895202" TEXT="Medium Strength in Earth and WindSpirit">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438467859176" ID="ID_984375887" MODIFIED="1438474879909" TEXT="Paleka">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527827509" ID="ID_630921665" MODIFIED="1438527850744" TEXT="Shorter and more free  ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438710582824" ID="ID_329318657" MODIFIED="1439217910486" TEXT="Strong in WindSpirit">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 </node>
@@ -95,12 +113,18 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527874897" ID="ID_1259812484" MODIFIED="1438527892566" TEXT="Arabic/Jewish">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439218241396" ID="ID_1906061224" MODIFIED="1439218382422" TEXT="Medium Strength in Water and WindSpirit.  ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438467899271" ID="ID_210324377" MODIFIED="1438468014216" TEXT="&apos;Ndari">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438527896227" ID="ID_859089329" MODIFIED="1438528149367" TEXT="Indian/Thai">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1438734703630" ID="ID_1881364803" MODIFIED="1439218235138" TEXT="Medium Strength in Fire and EarthSpirit">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 </node>
@@ -110,12 +134,18 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438528155927" ID="ID_906739261" MODIFIED="1438528737992" TEXT="A very fast people">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439072648691" ID="ID_39486745" MODIFIED="1439217999846" TEXT="Medium Strength in Fire and WindSpirit. ">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 <node CREATED="1438467973549" ID="ID_730492254" MODIFIED="1438468143111" TEXT="Gambishi">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438528741549" ID="ID_323964044" MODIFIED="1438528748950" TEXT="A very strong people">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439217952232" ID="ID_1470230033" MODIFIED="1439218012518" TEXT="Strong in FireSpirit.">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 </node>
 </node>
@@ -147,15 +177,8 @@
 <node CREATED="1438530424494" ID="ID_1856396083" MODIFIED="1438530540422" TEXT="Builds resources very fast.">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1438530425121" ID="ID_244535909" MODIFIED="1438547673951" TEXT="Very agile in Terrain, hunts well  ">
+<node CREATED="1438530425121" ID="ID_244535909" MODIFIED="1439218643463" TEXT="Very agile in Terrain, hunts well  ">
 <font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="help"/>
-<node CREATED="1438710582824" ID="ID_329318657" MODIFIED="1438710601076" TEXT="so this means they have high movement and use bows?    ">
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1439072664308" ID="ID_901961283" MODIFIED="1439072685172" TEXT="maybe give these guys Windspirit: allows units to move twice in one turn  ">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
 </node>
 </node>
 <node CREATED="1438529022631" ID="ID_203576779" MODIFIED="1438529245956" TEXT="Command Proficiency">
@@ -163,7 +186,7 @@
 <node CREATED="1438530426552" ID="ID_1552248630" MODIFIED="1438640675544" TEXT="Proficiency with Commander Morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="help"/>
-<node CREATED="1438734703630" ID="ID_1881364803" MODIFIED="1438734726087" TEXT="this may be obsolete">
+<node CREATED="1439218627648" ID="ID_669933189" MODIFIED="1439218635636" TEXT="this may be obsolete">
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
@@ -175,9 +198,6 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1438530428634" ID="ID_265842161" MODIFIED="1438530444989" TEXT="One is fast. ">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1439072648691" ID="ID_39486745" MODIFIED="1439072659628" TEXT="maybe give these guys high movement as well.  ">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
 </node>
 <node CREATED="1438530429237" ID="ID_1467352243" MODIFIED="1438530468307" TEXT="The other is strong.">
 <font NAME="SansSerif" SIZE="16"/>
@@ -324,8 +344,11 @@
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-2"/>
 <icon BUILTIN="button_ok"/>
-<node CREATED="1438374808861" ID="ID_1909109988" MODIFIED="1438377869496" TEXT="Where Strategy Rules">
+<node CREATED="1438374808861" FOLDED="true" ID="ID_1909109988" MODIFIED="1439216991436" TEXT="Where Strategy Rules">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439216971948" ID="ID_1634545103" MODIFIED="1439216988854" TEXT="Where Strategy Begins">
+<font NAME="SansSerif" SIZE="15"/>
+</node>
 </node>
 </node>
 <node CREATED="1438374802785" HGAP="27" ID="ID_451117220" MODIFIED="1438696058791" POSITION="left" TEXT="Rules" VSHIFT="-31">
@@ -885,24 +908,28 @@
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1439153462497" ID="ID_657840290" MODIFIED="1439155153206" TEXT="allows moving twice in one turn.  ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439218728152" ID="ID_1706819160" MODIFIED="1439218734060" TEXT="Eagle"/>
 </node>
 </node>
 <node CREATED="1439154989598" ID="ID_1592708940" MODIFIED="1439155002625" TEXT="EarthSpirit  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1439155054613" ID="ID_1583297784" MODIFIED="1439156361791" TEXT="cannot receive critical hits">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439218723306" ID="ID_205798022" MODIFIED="1439218727511" TEXT="Ox"/>
 </node>
 </node>
 <node CREATED="1439155027328" ID="ID_312727622" MODIFIED="1439155033186" TEXT="FireSpirit ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1439155089406" ID="ID_1555041179" MODIFIED="1439155882152" TEXT="attack twice in one turn. ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439218734701" ID="ID_613358672" MODIFIED="1439218758592" TEXT="Lion"/>
 </node>
 </node>
 <node CREATED="1439155033912" ID="ID_886470261" MODIFIED="1439155039621" TEXT="WaterSpirit  ">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1439155095265" ID="ID_480484746" MODIFIED="1439156325011" TEXT="chance to dodge an attack  ">
 <font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1439218759169" ID="ID_1377176849" MODIFIED="1439218761196" TEXT="Man"/>
 </node>
 </node>
 </node>
