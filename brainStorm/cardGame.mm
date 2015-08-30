@@ -183,12 +183,8 @@
 </node>
 <node CREATED="1438529022631" ID="ID_203576779" MODIFIED="1438529245956" TEXT="Command Proficiency">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1438530426552" ID="ID_1552248630" MODIFIED="1438640675544" TEXT="Proficiency with Commander Morale.  ">
+<node CREATED="1438530426552" ID="ID_1552248630" MODIFIED="1439863715652" TEXT="Proficiency with Commander Morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="help"/>
-<node CREATED="1439218627648" ID="ID_669933189" MODIFIED="1439218635636" TEXT="this may be obsolete">
-<font NAME="SansSerif" SIZE="16"/>
-</node>
 </node>
 <node CREATED="1438530427163" ID="ID_31738681" MODIFIED="1438530515336" TEXT="Proficiency with Combatant Morale.  ">
 <font NAME="SansSerif" SIZE="16"/>
@@ -920,7 +916,7 @@
 </node>
 <node CREATED="1439155027328" ID="ID_312727622" MODIFIED="1439155033186" TEXT="FireSpirit ">
 <font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1439155089406" ID="ID_1555041179" MODIFIED="1439155882152" TEXT="attack twice in one turn. ">
+<node CREATED="1439155089406" ID="ID_1555041179" MODIFIED="1440976797726" TEXT="increased strength">
 <font NAME="SansSerif" SIZE="16"/>
 <node CREATED="1439218734701" ID="ID_613358672" MODIFIED="1439218758592" TEXT="Lion"/>
 </node>
